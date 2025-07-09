@@ -1,0 +1,13 @@
+name = "TFC Cold Sweat"
+filename = "tfc_coldsweat-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1PksCAAh/versions/iY5yfJua/tfc_coldsweat-1.7.1.jar"
+hash-format = "sha512"
+hash = "0d781ecd397b7ef431942ac7b9f212c6d836f4a21a4dfec883de928c62ebad613b56dcf299741529489dd41dcf6f39917cd828f32e910b80a8fb3f7670071910"
+
+[update]
+[update.modrinth]
+mod-id = "1PksCAAh"
+version = "iY5yfJua"

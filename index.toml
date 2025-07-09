@@ -1737,6 +1737,11 @@ hash = "bd6593e98b6a855634b9b9d7759d0bcc881438edee3e7215fb2731d6e7b4a30b"
 metafile = true
 
 [[files]]
+file = "mods/tfc-cold-sweat.pw.toml"
+hash = "2e27ac0d7d32ca5dab1acdeba3af1e36412c5e460a60297ab073ab9cda34197d"
+metafile = true
+
+[[files]]
 file = "mods/tfc-craftable-kaolin-clay.pw.toml"
 hash = "eb8c99d17545bb133d63b68b0b6e2057ff1aa9454dd435c7f4bc1986640aadb0"
 metafile = true
