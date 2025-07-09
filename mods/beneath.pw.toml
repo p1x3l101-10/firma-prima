@@ -1,0 +1,16 @@
+filename = 'beneath-1.20.1-1.0.4.jar'
+name = 'Beneath'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0e2ad7be3e389cb608fbe15c322de849ea05ebe890d8a015ff3e5dc9899cda90b1d1d73da25b57196ac0f0716ad9f6001aae8fe28f6851b1a1133c62267f8e45'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6VieRZiz/versions/BPS3Bb2s/beneath-1.20.1-1.0.4.jar'
+
+[update.modrinth]
+mod-id = '6VieRZiz'
+version = 'BPS3Bb2s'

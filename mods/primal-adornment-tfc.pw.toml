@@ -1,0 +1,16 @@
+filename = 'primal_adornment-1.0.2-forge-1.20.1.jar'
+name = 'Primal adornment TFC'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '76f14cbb580d8d2a8510b14260353653553632c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6114750
+project-id = 1174016

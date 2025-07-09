@@ -1,0 +1,16 @@
+filename = 'Lychee-1.20.1-Forge-5.1.19.jar'
+name = 'Lychee'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5718f41ba77fd2b25ee5925c32db90da0c50ab6b62ae11127c177602f9f7277f318a29de70963e2b3fe968b741461a65c5781f2173d447f37f41e9a647e89f1c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TdN6LxjM/versions/6sgceHqB/Lychee-1.20.1-Forge-5.1.19.jar'
+
+[update.modrinth]
+mod-id = 'TdN6LxjM'
+version = '6sgceHqB'

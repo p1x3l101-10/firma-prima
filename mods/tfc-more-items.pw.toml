@@ -1,0 +1,16 @@
+filename = 'tfc_items-1.20.1-forge-1.1.1.jar'
+name = 'TFC More Items'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '62bdce27810e818fe948fb8088531ab60c952387'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6304834
+project-id = 1189837

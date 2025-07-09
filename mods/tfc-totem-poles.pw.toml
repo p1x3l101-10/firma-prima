@@ -1,0 +1,16 @@
+filename = 'tfc_totem_poles-1.2.0-forge-1.20.1.jar'
+name = 'TFC Totem Poles'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a3d93c6ec1d22b5900275c2b0a95ab6339762730'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5286599
+project-id = 999274

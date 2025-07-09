@@ -1,0 +1,16 @@
+filename = 'afc-1.0.18-1.20.1.jar'
+name = 'ArborFirmaCraft (AFC)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1ba3efbc9a697abac6e1fd087190fc15b2ddf6f039f0772ba44afc9629ff5f99377ee134fb8c12586e8594d525b0e805d15c6e3520d401175436f9c1914ea432'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9q4wtMjp/versions/2LnBYYOD/afc-1.0.18-1.20.1.jar'
+
+[update.modrinth]
+mod-id = '9q4wtMjp'
+version = '2LnBYYOD'

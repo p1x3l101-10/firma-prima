@@ -1,0 +1,16 @@
+filename = 'TerraFirmaCraft-Forge-1.20.1-3.2.15.jar'
+name = 'TerraFirmaCraft'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '82bf73b51c3c8ae4065ddf124706df165a0c4e387175f1d51a6dbdad5064a4476a8d2dbfa16100f4bf294f7e7607d438df3d3c7ea5218c18eeb395152d6bedab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JaCEZUhg/versions/fyidRM2Q/TerraFirmaCraft-Forge-1.20.1-3.2.15.jar'
+
+[update.modrinth]
+mod-id = 'JaCEZUhg'
+version = 'fyidRM2Q'

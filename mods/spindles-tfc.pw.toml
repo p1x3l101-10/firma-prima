@@ -1,0 +1,16 @@
+filename = 'TFC_Spindles-1.20.1-forge-1.0.0.jar'
+name = 'Spindles TFC'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8ac833c8cc2a79c0bfe8dff9a84b77d3babbe320'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6496727
+project-id = 1258816

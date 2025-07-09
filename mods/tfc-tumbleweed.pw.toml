@@ -1,0 +1,16 @@
+filename = 'TFCTumbleweed-1.20.1-1.2.2.jar'
+name = 'TFC Tumbleweed'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6449851e787578eced05009afe978d5b329d36efce4e11113b3a7c8dfeecb9df42475f6ece76937a374508465933240affede6e7cc136756ac8918e09ac8fd09'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/r96Vw4vO/versions/qDX0X7bD/TFCTumbleweed-1.20.1-1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'r96Vw4vO'
+version = 'qDX0X7bD'

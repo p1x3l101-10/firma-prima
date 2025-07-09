@@ -1,0 +1,16 @@
+filename = 'tfc_coins-2.jar'
+name = 'TFC Coins'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '56ce50ea78068308059edb0db8e8b14f29ea08d2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6707193
+project-id = 1293230
