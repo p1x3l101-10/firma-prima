@@ -1812,11 +1812,6 @@ hash = "212a270f45a71fb1adfe6757f2d95a203daf563c5340de86a3a3d04323c4bf21"
 metafile = true
 
 [[files]]
-file = "mods/tfc-no-unreal-mobs.pw.toml"
-hash = "65ca4a880830d2ccbd4f06f03c00775247c61112c3ae37f5995f08805e4acba6"
-metafile = true
-
-[[files]]
 file = "mods/tfc-ore-loot.pw.toml"
 hash = "a8b0195148bd9be3089312557ee7624125383f1f1c74708c3495424a6b9867ba"
 metafile = true
