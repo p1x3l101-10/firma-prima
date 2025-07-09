@@ -1507,6 +1507,11 @@ hash = "35c6e3101fa4f7725db363591014a101cffff4b500964c27424e697b79faa4e9"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-curios.pw.toml"
 hash = "ec6b3a86b3b56ed88653e8b3626bdc484974f5d76dabb6287b5c3a7742e6c025"
 metafile = true
