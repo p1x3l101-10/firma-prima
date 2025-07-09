@@ -1183,7 +1183,7 @@ metafile = true
 
 [[files]]
 file = "mods/backpacked-tfc.pw.toml"
-hash = "e16d468d757c54eb9742827709533b59a843d6e54c4f25ef8c1bef953f7d948f"
+hash = "22e13d07e1cf0205aa04248bad9fcc29aa22c3580d688d874aa3135a7da8e70d"
 metafile = true
 
 [[files]]
@@ -1263,7 +1263,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "71a887de44046d01cf80aef5cc7626b0b55665521152bd60c53fe83f499292e6"
+hash = "8604dd500705ebbe090b0805312130ac51ff90fa7f5a0fd4acf63b62f6763c19"
 metafile = true
 
 [[files]]
@@ -1278,7 +1278,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "55b58eb75348293d7fd3fd4a9eb3f38ca1e3656941fa8c8079265d1d2819ae07"
+hash = "b0add46a88def8b8555368724b7835da9108572be123f3049fff423a3026d809"
 metafile = true
 
 [[files]]
@@ -1338,7 +1338,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "47b5cd58542e6c56c65f968daf8adf292b6211cf0e01f9d281b3a306d76b24c2"
+hash = "bc5fc2f1b3dd04678e7ff565d7ba922baff026bb2eabb6a34138f854b1665f37"
 metafile = true
 
 [[files]]
@@ -1363,7 +1363,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanting-with-tfc.pw.toml"
-hash = "bcccd235f61985c9992c6d84cd277ab0665d99745b0a1fbe92be69f470f4084c"
+hash = "812eba47cf7fbae03c3ba3be39232192c7f3df8bbcb386c62e0ecdb00167db76"
 metafile = true
 
 [[files]]
@@ -1388,7 +1388,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "b5dec436af4e53c1d8c98104cc31f843350d4e401a84f54f5cebb2b2781a793a"
+hash = "2040858d40af1b4a1db2267224844e4130c08cd4d82ceddbbcb4ce8d91cd13b0"
 metafile = true
 
 [[files]]
@@ -1438,7 +1438,7 @@ metafile = true
 
 [[files]]
 file = "mods/global-server-config.pw.toml"
-hash = "212b1e15526948ca38afbbda267ddf0d5fe8566d23dd7c39da9471cd90ed0c74"
+hash = "5f96348f07475575065b6c27353808599c906f87eee73b5fba422ffa17e9eab0"
 metafile = true
 
 [[files]]
@@ -1673,7 +1673,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmacraft-ars-nouveau-compatibility.pw.toml"
-hash = "12cf8705d98044b40031d95fa7b14f7389ca3c30593116e597ac891f6c5f2cec"
+hash = "b7ed3d34f0905377bbd311d4fcfd195b6ab232d13144842f48e92c77f03378b3"
 metafile = true
 
 [[files]]
@@ -1743,7 +1743,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-curios-weight.pw.toml"
-hash = "eb30605abe42c1926e1ec737087958debcb036db44edac6eccce17a036132ab2"
+hash = "d6720a3410ee8239d00e0ddfecfe5a4f6c83921f3ef72ad69d0ae02d7e29ecb5"
 metafile = true
 
 [[files]]

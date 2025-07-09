@@ -1,6 +1,6 @@
 filename = 'e4mc_minecraft-forge-5.4.1.jar'
 name = 'e4mc'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [
     '1.18',
