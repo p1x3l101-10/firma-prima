@@ -1,0 +1,13 @@
+name = "TFC: Creepy-crawlies"
+filename = "creepycrawlies-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f3fb625dbfc4bd6aed91dcf2580f2c1db5b1a13"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5766821
+project-id = 1111580

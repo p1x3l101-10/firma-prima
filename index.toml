@@ -1747,6 +1747,11 @@ hash = "eb8c99d17545bb133d63b68b0b6e2057ff1aa9454dd435c7f4bc1986640aadb0"
 metafile = true
 
 [[files]]
+file = "mods/tfc-creepy-crawlies.pw.toml"
+hash = "399c9f8f25ecd6c580b62163f5b5805a0e1614938f1f376d024c8013dcbd1160"
+metafile = true
+
+[[files]]
 file = "mods/tfc-creepycrawlies.pw.toml"
 hash = "9516ef4aa708b32f47f8ed0bc469e492997cbf0bccaef5bd3338462fe0b88b83"
 metafile = true
@@ -1848,7 +1853,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-tools-trim.pw.toml"
-hash = "708219486339baa88ec11c7863d6bd135b721868ff241d0ed8c3ace010a683ab"
+hash = "eb8e921a7c99bc8887aaa4f6e255267981b3d2054c74d591eb1c8ac859a1e7bb"
 metafile = true
 
 [[files]]
