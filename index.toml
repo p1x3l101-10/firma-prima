@@ -1071,7 +1071,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/client_scripts/hide-wildcards.js"
-hash = "ebdada692f6d720c88073563f9e9128e61cb6386300fe7f5fde15fc0719f41dd"
+hash = "93180cdd9b840a0e48adf3fca7afbb3cb350a9e3d227419ab1734e729dbeea7e"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -1140,6 +1140,10 @@ hash = "ce1f78bf77f1ab9261527ebbdc1b23f6101328e79fc41a458f90f9a6a50820ce"
 [[files]]
 file = "kubejs/server_scripts/adding_recipes-ae2.js"
 hash = "3f24188800e44f61757550217bd85f018b04606af21ff5a791905510bc39873e"
+
+[[files]]
+file = "kubejs/server_scripts/ars_tfc.js"
+hash = "7c5f1780f5a2952f1b589b55ae8a940cc48f8937556042c907669a29f5e34201"
 
 [[files]]
 file = "kubejs/server_scripts/removed_recipes-ae2.js"
