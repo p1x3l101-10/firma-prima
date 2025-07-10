@@ -565,6 +565,22 @@ file = "config/de/mari_023/ae2wtlib.json5"
 hash = "e9838cc6c67a746008e2c8bc88577be4c350d4f990ee5ca4861f07bce76e36ea"
 
 [[files]]
+file = "config/defaultoptions-common.toml"
+hash = "fd893ef796d2930bd298466dfd6e3b2be963247954c25d4566626be43ad5f8a4"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "0acf81a00c8596ed30427b5c6becb0f1f4cc6938d54fab2dbf53b13818ddba18"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "27430d4748f568127cf0fcfd0e86b1a7e1578faa1e0f2e3ba8f1a966645e09ac"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "092f5e68ebdd288343e6cd5ceb60eafb3438d52261cee77077b7fb42e916e598"
+
+[[files]]
 file = "config/distraction_free_recipes-client.toml"
 hash = "2e39a9f28f52df8ba1c7efccef88a8cf10038b45b2da25ad36517a5960945578"
 
