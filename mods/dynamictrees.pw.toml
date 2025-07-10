@@ -1,16 +1,14 @@
-filename = 'DynamicTrees-1.20.1-1.4.5.jar'
-name = 'Dynamic Trees'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Dynamic Trees"
+filename = "DynamicTrees-1.20.1-1.4.5.jar"
+side = "both"
 
 [download]
-hash = 'ce0559a4c18a6f2d1fbbcbb19ce3516fb46474257a26d87c762c557dc4ba70c5514db71d9d583865f335bef906d85606310491e6f516dcfa13e938d723d6aa5a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/vdjF5PL5/versions/JmNKkurv/DynamicTrees-1.20.1-1.4.5.jar'
+url = "https://cdn.modrinth.com/data/vdjF5PL5/versions/JmNKkurv/DynamicTrees-1.20.1-1.4.5.jar"
+hash-format = "sha256"
+hash = "8afe22851f71bdb4d71116c4483e17386cd91bffe4728be9f91c6cb678fff373"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'vdjF5PL5'
-version = 'JmNKkurv'
+mod-id = "vdjF5PL5"
+version = "JmNKkurv"

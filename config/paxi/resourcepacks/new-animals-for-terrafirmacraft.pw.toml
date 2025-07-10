@@ -3,8 +3,8 @@ filename = "TerraFirmaCraft_New_Animals.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c3318956eff6b4c9e49e81b89ff2b49eaf16d4dc"
+hash-format = "sha256"
+hash = "01ee61826183de6256f320dd9e7452e952123fe56caee695c20473b52e84487a"
 mode = "metadata:curseforge"
 
 [update]

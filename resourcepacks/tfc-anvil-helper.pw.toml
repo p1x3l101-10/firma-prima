@@ -3,8 +3,8 @@ filename = "Perfected Anvil Helper.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "67ce571b82410f62b776cd20b6a026802033217d"
+hash-format = "sha256"
+hash = "b2ddfb2eaae19874594032a451212fbe8ca36562f178ff34ee79c71ea1da5a5b"
 mode = "metadata:curseforge"
 
 [update]

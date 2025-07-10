@@ -1,16 +1,14 @@
-filename = 'cold_light-1.3.1.jar'
-name = 'Cold Light'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
-x-prismlauncher-release-type = 'release'
+name = "Cold Light"
+filename = "cold_light-1.3.1.jar"
+side = "both"
 
 [download]
-hash = '85136defacb7fa2a9346060e04d5fdb0e5616fe6ea41252f792829673eb79de19d38af0031e8a986681d91c4ecb8e0e9a127fb4d18c619e0b2565e7d302dd1c1'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/XEtsMCvt/versions/4iVoIjIh/cold_light-1.3.1.jar'
+url = "https://cdn.modrinth.com/data/XEtsMCvt/versions/4iVoIjIh/cold_light-1.3.1.jar"
+hash-format = "sha256"
+hash = "e21effa2cc09f5f86466dac4bb1d63575a9081cbf51b714adcc42ec48a4f1441"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'XEtsMCvt'
-version = '4iVoIjIh'
+mod-id = "XEtsMCvt"
+version = "4iVoIjIh"

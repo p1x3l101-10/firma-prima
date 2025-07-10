@@ -3,8 +3,8 @@ filename = "tfc_trim-1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4c8f93695cedd4e838213e9bb7b3471ebf4d440b"
+hash-format = "sha256"
+hash = "d79b0c9c4ba3e6bc302df1ebcff648f18188304eeb22afde59c0616c62a03c97"
 mode = "metadata:curseforge"
 
 [update]

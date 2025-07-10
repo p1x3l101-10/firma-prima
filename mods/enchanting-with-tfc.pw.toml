@@ -1,16 +1,14 @@
-filename = 'Enchanting With TFC 1.20.1-1.0.0.jar'
-name = 'Enchanting With TFC'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Enchanting With TFC"
+filename = "Enchanting With TFC 1.20.1-1.0.0.jar"
+side = "both"
 
 [download]
-hash = '085d3fe4f3699cf73476f9fb7520465bf2b890f610e5753f0362ffa15b645d5cc5a93aaa3c4e57d280f4fb623a2de089f02fbce10ef8f04627adee2b4c1889cd'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/RRO8GVJu/versions/OC9Vgjca/Enchanting%20With%20TFC%201.20.1-1.0.0.jar'
+url = "https://cdn.modrinth.com/data/RRO8GVJu/versions/OC9Vgjca/Enchanting%20With%20TFC%201.20.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "085841f513a38aa2faf53460b864d385c98c3c8e5ef8e355f6eeb91de7ead2ab"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'RRO8GVJu'
-version = 'OC9Vgjca'
+mod-id = "RRO8GVJu"
+version = "OC9Vgjca"

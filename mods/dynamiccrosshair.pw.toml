@@ -1,16 +1,14 @@
-filename = 'dynamiccrosshair-9.6+1.20.1-forge.jar'
-name = 'Dynamic Crosshair'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Dynamic Crosshair"
+filename = "dynamiccrosshair-9.6+1.20.1-forge.jar"
+side = "client"
 
 [download]
-hash = '6a910e6591f60490ffc179b9de3c639019ff74f56f79fb3f1ad9565ee7e15ff8462f5bf88497a61f53d6ba30b315a82605e48e9052703e52f710606e81e968d7'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/ZcR9weSm/versions/Y8V8ugtm/dynamiccrosshair-9.6%2B1.20.1-forge.jar'
+url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/Y8V8ugtm/dynamiccrosshair-9.6%2B1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "838592d6bd565902be6e3a10eb0d65ddcc9ba9161087aa149cd2da836a8838d0"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'ZcR9weSm'
-version = 'Y8V8ugtm'
+mod-id = "ZcR9weSm"
+version = "Y8V8ugtm"

@@ -1,16 +1,14 @@
-filename = 'corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.2.jar'
-name = 'Corpse x Curios API Compat'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.18.2', '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
-x-prismlauncher-release-type = 'release'
+name = "Corpse x Curios API Compat"
+filename = "corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.2.jar"
+side = "both"
 
 [download]
-hash = '966b34642604bd6bf7b27591820a64471448cb21e8ff560ff19c29a891e9a2bf4abf66ab879878839ce0eac45250a39600b83580afb2455da9ef467ae5270d59'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/pJGcKPh1/versions/svYuXRgL/corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.2.jar'
+url = "https://cdn.modrinth.com/data/pJGcKPh1/versions/svYuXRgL/corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.2.jar"
+hash-format = "sha256"
+hash = "5072101a593800384a28639e649ba8ba0ab59b53014b3624bac0942b30bfd731"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'pJGcKPh1'
-version = 'svYuXRgL'
+mod-id = "pJGcKPh1"
+version = "svYuXRgL"

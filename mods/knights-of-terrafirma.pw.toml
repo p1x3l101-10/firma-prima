@@ -1,16 +1,14 @@
-filename = 'knightsofterrafirma-3.0.2.jar'
-name = 'Epic Knights of TerraFirma'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Epic Knights of TerraFirma"
+filename = "knightsofterrafirma-3.0.2.jar"
+side = "both"
 
 [download]
-hash = '86519c8e6951e1ab923162ac7689d42264ccdd51a7033b15a15537f34ae7dab80fa6798db66d37460983156643b3ce4eed6ddaea678f1a9a4bc85033eb25bdb0'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/CPC1U8Fg/versions/kTUTC3sv/knightsofterrafirma-3.0.2.jar'
+url = "https://cdn.modrinth.com/data/CPC1U8Fg/versions/kTUTC3sv/knightsofterrafirma-3.0.2.jar"
+hash-format = "sha256"
+hash = "3e9642fce4f602b75b36f0e7be694f7fe13ab87ee7ca6e94cc5f53073703961d"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'CPC1U8Fg'
-version = 'kTUTC3sv'
+mod-id = "CPC1U8Fg"
+version = "kTUTC3sv"

@@ -1,16 +1,14 @@
-filename = 'tfc_muskets-1.20.1-forge-1.0.2.jar'
-name = 'TFC Black Powder Weapons'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "TFC Black Powder Weapons"
+filename = "tfc_muskets-1.20.1-forge-1.0.2.jar"
+side = "both"
 
 [download]
-hash = '55f5d35756b2c462aba02abcda5953fd7e5dec1a731f641d2edf7ad47012507cb962f2f0844e04c50cb95199f9522956613c3753837032da59152e04882f061c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/ydtfCbHK/versions/TNABSqp8/tfc_muskets-1.20.1-forge-1.0.2.jar'
+url = "https://cdn.modrinth.com/data/ydtfCbHK/versions/TNABSqp8/tfc_muskets-1.20.1-forge-1.0.2.jar"
+hash-format = "sha256"
+hash = "b97f240c959e076e32fcdcc7f59d799c7eed20e04fe6365e7226ab9a5eff9c5f"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'ydtfCbHK'
-version = 'TNABSqp8'
+mod-id = "ydtfCbHK"
+version = "TNABSqp8"

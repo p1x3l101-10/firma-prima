@@ -1,16 +1,14 @@
-filename = 'Firmalife-1.20.1-2.1.19.jar'
-name = 'Firmalife'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Firmalife"
+filename = "Firmalife-1.20.1-2.1.19.jar"
+side = "both"
 
 [download]
-hash = '8c5014da76fc05fa04ea20519ebb882df86a2506fd7094baad0ac5ef4b9941122dedf8556ffc72495147a56da22089d5f3db29df473e926448d5830a3577f3ee'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/5bKeBHw2/versions/tw6j36vR/Firmalife-1.20.1-2.1.19.jar'
+url = "https://cdn.modrinth.com/data/5bKeBHw2/versions/tw6j36vR/Firmalife-1.20.1-2.1.19.jar"
+hash-format = "sha256"
+hash = "80fd167f9dee0022e85e290743d133d4f0ac4ddb2b2a6110f6e686b5b263cdab"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = '5bKeBHw2'
-version = 'tw6j36vR'
+mod-id = "5bKeBHw2"
+version = "tw6j36vR"

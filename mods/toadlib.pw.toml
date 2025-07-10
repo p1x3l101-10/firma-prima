@@ -1,16 +1,14 @@
-filename = 'ToadLib-1.20-1.20.1-1.3.3.jar'
-name = 'ToadLib'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "ToadLib"
+filename = "ToadLib-1.20-1.20.1-1.3.3.jar"
+side = "both"
 
 [download]
-hash = 'e5d1710a61bb5ef299e0c9238839229ee24fe6ca0c2dca23a177376790bda38d0833a4a86e67e8170d9d5f8a8bc77b4eea73d876fdd4101e7ae7f8998e4a92a9'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/CYQ7VYrM/versions/d7LJjg6J/ToadLib-1.20-1.20.1-1.3.3.jar'
+url = "https://cdn.modrinth.com/data/CYQ7VYrM/versions/d7LJjg6J/ToadLib-1.20-1.20.1-1.3.3.jar"
+hash-format = "sha256"
+hash = "d5a383e53ef261e98aa1112d606e8ea33b535989e6a9388777e5c5215e269ac0"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'CYQ7VYrM'
-version = 'd7LJjg6J'
+mod-id = "CYQ7VYrM"
+version = "d7LJjg6J"

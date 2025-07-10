@@ -1,16 +1,13 @@
-filename = '[1.20.x-forge]-Epic-Knights-Antique-Legacy-1.8.jar'
-name = 'Epic Knights: Antique Legacy'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20-Snapshot', '1.20.1', '1.20.2', '1.20.2-Snapshot' ]
-x-prismlauncher-release-type = 'release'
+name = "Epic Knights: Antique Legacy"
+filename = "[1.20.x-forge]-Epic-Knights-Antique-Legacy-1.8.jar"
+side = "both"
 
 [download]
-hash = '077ed91caf52c2f61cd16e43e33597cf0e119d7c'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "716f1ae4c405530a5acd9b718ab91924353d5536a127f38b05eb61685b45bc7d"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5496564
 project-id = 1033634

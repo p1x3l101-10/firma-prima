@@ -1,16 +1,13 @@
-filename = 'betterworldloading20-1.0.jar'
-name = 'Better World Loading ([Neo]Forge)'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Better World Loading ([Neo]Forge)"
+filename = "betterworldloading20-1.0.jar"
+side = "client"
 
 [download]
-hash = '877520eff23f44ffc9e399f5365dc67fd74281fc'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "47602c3616381d6d931dc89063cdd2232bea74b9391f128dcce061708a4c2eab"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6647506
 project-id = 1286032

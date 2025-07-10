@@ -1,16 +1,13 @@
-filename = 'tfccanes-2.1.1.jar'
-name = 'TFC Canes'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "TFC Canes"
+filename = "tfccanes-2.1.1.jar"
+side = "both"
 
 [download]
-hash = 'cf123ce35609e87cc86c9440c45faade0af9a794'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "9fe9a46b27c8ba2ccfebda740e7614b4a918df91203d19b794bfeaa17a14adc6"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6151996
 project-id = 920202

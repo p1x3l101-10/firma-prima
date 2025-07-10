@@ -1,16 +1,13 @@
-filename = 'TFCBetterBlastFurnace-1.20.1-1.0.0.jar'
-name = 'TFC Better Blast Furnace'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "TFC Better Blast Furnace"
+filename = "TFCBetterBlastFurnace-1.20.1-1.0.0.jar"
+side = "both"
 
 [download]
-hash = '91dbfe3c3e7e7fc9ffb126d879c1507e8c2f8b82'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "2477a52f2f966fccee2de8bce0010c5888ac9841648671486825c55d6635d01d"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5461010
 project-id = 1046432

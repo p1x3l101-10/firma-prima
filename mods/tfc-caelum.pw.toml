@@ -1,16 +1,14 @@
-filename = 'TFCCaelum-1.20.1-1.2.jar'
-name = 'TFC Caelum'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
+name = "TFC Caelum"
+filename = "TFCCaelum-1.20.1-1.2.jar"
+side = "both"
 
 [download]
-hash = 'f1c7153fc07da59677183f9967ca16e189bcf38d961b03931f100b141e9a10ef684dd1d71a6cf8d27cd3d8ceef7670db25d3b6c398f835387ca8ee8936ea0303'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/WYvV2Kci/versions/wSasbQOH/TFCCaelum-1.20.1-1.2.jar'
+url = "https://cdn.modrinth.com/data/WYvV2Kci/versions/wSasbQOH/TFCCaelum-1.20.1-1.2.jar"
+hash-format = "sha256"
+hash = "ff4912e708e3dd391c0c4fec1cf9e99f2cc7af0f02b7fb54db120ef2141e0f38"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'WYvV2Kci'
-version = 'wSasbQOH'
+mod-id = "WYvV2Kci"
+version = "wSasbQOH"

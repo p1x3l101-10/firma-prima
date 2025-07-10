@@ -1,16 +1,14 @@
-filename = 'weather2-1.20.1-2.8.3.jar'
-name = 'Weather Storms & Tornadoes'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Weather Storms & Tornadoes"
+filename = "weather2-1.20.1-2.8.3.jar"
+side = "both"
 
 [download]
-hash = '240bd2eadfb47c6f8e201105e0d69f4ffe6957ec97d95200c01904edd6eca6b42cb61c67b58492a5fd0b0c306108519980f89c5382d168c5c71dbae95e72bb49'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/dv5SFk5T/versions/ZKVtwI5D/weather2-1.20.1-2.8.3.jar'
+url = "https://cdn.modrinth.com/data/dv5SFk5T/versions/ZKVtwI5D/weather2-1.20.1-2.8.3.jar"
+hash-format = "sha256"
+hash = "5eb828f93b2eb370d7f38ad1893739caf7655f32d58dbbdaabae6075ede635db"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'dv5SFk5T'
-version = 'ZKVtwI5D'
+mod-id = "dv5SFk5T"
+version = "ZKVtwI5D"

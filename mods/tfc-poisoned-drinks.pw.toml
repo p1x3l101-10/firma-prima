@@ -1,16 +1,13 @@
-filename = 'poisoned_drinks-1.0.2.jar'
-name = 'TFC Poisoned Drinks'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "TFC Poisoned Drinks"
+filename = "poisoned_drinks-1.0.2.jar"
+side = "both"
 
 [download]
-hash = 'c29c32b34f49937e628a5844948ba8cafddb4c1b'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "dd7d2ab3813c7ab3cacb98cfb4ae37a372658b364dbb0cab0b8f82268229179c"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5684655
 project-id = 1050492

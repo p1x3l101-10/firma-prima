@@ -1,16 +1,14 @@
-filename = 'textile-2.2.2b.jar'
-name = 'TFC Textile'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
-x-prismlauncher-release-type = 'release'
+name = "TFC Textile"
+filename = "textile-2.2.2b.jar"
+side = "both"
 
 [download]
-hash = '8b58e6edeef79ca23125dc0684f76840848624746c0051e067fac9d04b129d8b4a84401f621586358fc6220ff7af72e14484526cbb9ed11f2ed62c7980a6586d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/95fO2Dzf/versions/rnnPoC6y/textile-2.2.2b.jar'
+url = "https://cdn.modrinth.com/data/95fO2Dzf/versions/rnnPoC6y/textile-2.2.2b.jar"
+hash-format = "sha256"
+hash = "f2c380f19827b996f969f626198818929d7264a0a62d5545dd9546fa1700ac4e"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = '95fO2Dzf'
-version = 'rnnPoC6y'
+mod-id = "95fO2Dzf"
+version = "rnnPoC6y"

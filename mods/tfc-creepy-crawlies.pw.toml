@@ -3,8 +3,8 @@ filename = "creepycrawlies-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5f3fb625dbfc4bd6aed91dcf2580f2c1db5b1a13"
+hash-format = "sha256"
+hash = "921b3952c3acdfa49b7cf500958a9c7f5b577f361844faa1c8b6a67a2581315a"
 mode = "metadata:curseforge"
 
 [update]

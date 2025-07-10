@@ -1,16 +1,14 @@
-filename = 'rnr-0.2.1-1.20.1.jar'
-name = 'Roads and Roofs TFC'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Roads and Roofs TFC"
+filename = "rnr-0.2.1-1.20.1.jar"
+side = "both"
 
 [download]
-hash = 'e0f7b50c0da47f449fe03427859a1a33d0b8bef59a676b7ac88f518c99a0a6f02b255b576716c0d5d3a7810bd48e8cc9d74d4f9ed8e519485949c6e2ff8e469a'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/ca9X1Phr/versions/msv0XMkD/rnr-0.2.1-1.20.1.jar'
+url = "https://cdn.modrinth.com/data/ca9X1Phr/versions/msv0XMkD/rnr-0.2.1-1.20.1.jar"
+hash-format = "sha256"
+hash = "9af1e253dfffe200032c8e2d4205a8c6e3cc78f76cd3e6675a8b05840cca22f6"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'ca9X1Phr'
-version = 'msv0XMkD'
+mod-id = "ca9X1Phr"
+version = "msv0XMkD"

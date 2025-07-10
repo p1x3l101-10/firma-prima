@@ -1,16 +1,14 @@
-filename = 'map_atlases-1.20-6.0.16.jar'
-name = 'Map Atlases [Forge]'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Map Atlases [Forge]"
+filename = "map_atlases-1.20-6.0.16.jar"
+side = "both"
 
 [download]
-hash = 'bf4c6670a843e46a22523551e8b1138800950a246cb42f9e73b585e164b706984e0949590fb93a0e02a366b76cef6378363d0784e6b57c7bc2730b024b6ede4e'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/4hwXMFif/versions/4j7pmAUW/map_atlases-1.20-6.0.16.jar'
+url = "https://cdn.modrinth.com/data/4hwXMFif/versions/4j7pmAUW/map_atlases-1.20-6.0.16.jar"
+hash-format = "sha256"
+hash = "6caccbe66455b99376c1c0192acaf6adc1d3bfaddf3b713b00aca9b5986745cb"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = '4hwXMFif'
-version = '4j7pmAUW'
+mod-id = "4hwXMFif"
+version = "4j7pmAUW"

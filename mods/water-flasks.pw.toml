@@ -1,16 +1,13 @@
-filename = 'waterflasks-3.0.8.jar'
-name = 'TFC Water Flasks'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "TFC Water Flasks"
+filename = "waterflasks-3.0.8.jar"
+side = "both"
 
 [download]
-hash = '6fc568609f6a182d18f8f4fac286c9bf122a486b'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "ca225b27bbec13af32a9dd1d80e31418eb862b9ac30070ede89817c9447acdd6"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6681183
 project-id = 354353

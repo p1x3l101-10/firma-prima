@@ -1,16 +1,14 @@
-filename = '[1.20.1-forge]-Epic-Knights-9.24.jar'
-name = 'Epic Knights: Shields Armor and Weapons'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Epic Knights: Shields Armor and Weapons"
+filename = "[1.20.1-forge]-Epic-Knights-9.24.jar"
+side = "both"
 
 [download]
-hash = '39994a3453615cb96c9634cf450dea463322576deee4817e708b37c0b65ee1a54f0e4468b83bd1024b3b458ed9617db15e2f423c5728ff9bd6444423a8c0c095'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/L6jvzao4/versions/qtV2x3BQ/%5B1.20.1-forge%5D-Epic-Knights-9.24.jar'
+url = "https://cdn.modrinth.com/data/L6jvzao4/versions/qtV2x3BQ/%5B1.20.1-forge%5D-Epic-Knights-9.24.jar"
+hash-format = "sha256"
+hash = "c77c5be3ed42ea4defa75e78928dce7b5deec619fbc08016ab881f06c8d303cc"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'L6jvzao4'
-version = 'qtV2x3BQ'
+mod-id = "L6jvzao4"
+version = "qtV2x3BQ"

@@ -1,16 +1,13 @@
-filename = 'TFCAgedAlcohol-1.20.1-2.2.jar'
-name = 'TFC Aged Alcohol'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "TFC Aged Alcohol"
+filename = "TFCAgedAlcohol-1.20.1-2.2.jar"
+side = "both"
 
 [download]
-hash = '0f9389d1fc476e8071bf342703dbb9211a310934'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "491f896032d755404199da5bbe28bc9adc4ebd498bcc555970c2001126b8da23"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6299084
 project-id = 880532

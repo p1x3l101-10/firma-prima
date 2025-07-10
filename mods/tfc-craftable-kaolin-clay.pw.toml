@@ -1,16 +1,13 @@
-filename = 'tfcckc-3.jar'
-name = 'TFC: Craftable Kaolin Clay'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "TFC: Craftable Kaolin Clay"
+filename = "tfcckc-3.jar"
+side = "both"
 
 [download]
-hash = '3a758ebb58d632f7047e5a0175d537f2e6fa47d9'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "b1ee486fbf3a1a7693fe06e51f5c5a6c4e7e5cab33c0861e1a23bf8efb2d9ed5"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6714659
 project-id = 1297117

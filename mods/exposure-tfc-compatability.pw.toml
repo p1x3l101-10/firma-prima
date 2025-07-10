@@ -1,16 +1,13 @@
-filename = 'tf_x_exposure_compat-1.1-forge-1.20.1.jar'
-name = 'Exposure + TFC Compatability'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Exposure + TFC Compatability"
+filename = "tf_x_exposure_compat-1.1-forge-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '2895960079e34b6cdb60a24d78fb0cb8479cf8e6'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "630b8b38bf041091ace5b668a4d0f88f1e3cbf58d87a7dcaeb32d4d52dcd3d21"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6194594
 project-id = 1199489

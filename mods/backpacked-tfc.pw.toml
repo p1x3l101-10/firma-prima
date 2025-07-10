@@ -1,16 +1,14 @@
-filename = 'backpacked_tfc-1.2.0-forge-1.20.1.jar'
-name = 'Backpacked TFC'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Backpacked TFC"
+filename = "backpacked_tfc-1.2.0-forge-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '6282f189f0ce07b5fa13cf15b0f727e31230a5037276921cf349aa4a77ef6ccd185037eda716a3df3456e5c02bb1e382ab817c0bd5f1d7b9ba28b80d5118f37d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/b1d6pH4w/versions/9qpVmOj5/backpacked_tfc-1.2.0-forge-1.20.1.jar'
+url = "https://cdn.modrinth.com/data/b1d6pH4w/versions/9qpVmOj5/backpacked_tfc-1.2.0-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "f6eda78dc7de48775f3456f12d75614850e218ab78e0fd131b2c6300a97d3039"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'b1d6pH4w'
-version = '9qpVmOj5'
+mod-id = "b1d6pH4w"
+version = "9qpVmOj5"

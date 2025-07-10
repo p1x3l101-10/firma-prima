@@ -1,16 +1,14 @@
-filename = 'modernfix-forge-5.24.1+mc1.20.1.jar'
-name = 'ModernFix'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "ModernFix"
+filename = "modernfix-forge-5.24.1+mc1.20.1.jar"
+side = "both"
 
 [download]
-hash = '564764194983bf5d78dd94cfce621ff0e7936cb71019491ed0052bad30ed520c251ed6f6e82a3d8c3450362063b2686c8e460bf0d2e03a6b6a38477ade41d7da'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/nmDcB62a/versions/DdUByV9S/modernfix-forge-5.24.1%2Bmc1.20.1.jar'
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/DdUByV9S/modernfix-forge-5.24.1%2Bmc1.20.1.jar"
+hash-format = "sha256"
+hash = "9b5c50e6d81d225c1e4cdf9974324913f6452d95f880e203fb6bd460e1c26ac8"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'nmDcB62a'
-version = 'DdUByV9S'
+mod-id = "nmDcB62a"
+version = "DdUByV9S"

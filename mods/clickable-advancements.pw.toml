@@ -1,16 +1,13 @@
-filename = 'clickadv-1.20.1-3.8.jar'
-name = 'Clickable advancements[Forge/Fabric]'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Clickable advancements[Forge/Fabric]"
+filename = "clickadv-1.20.1-3.8.jar"
+side = "both"
 
 [download]
-hash = 'a348e4418676ed8b1ffea6c54755f1ee8656f559'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha256"
+hash = "5d27f4b56c450a5e2cb5e2277551507c369469653adfe84ef7b19b2b7d3ee582"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5293987
 project-id = 511733

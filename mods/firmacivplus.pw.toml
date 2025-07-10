@@ -1,16 +1,14 @@
-filename = 'firmacivplus-1.0.1-1.20.1.jar'
-name = 'FirmaCivPlus'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+name = "FirmaCivPlus"
+filename = "firmacivplus-1.0.1-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '4785f2dedcd5f34b8b3f9f07869d1928af324a7b6bf5807a83837aa6e78b7ec80a2661073b4e91e6061d8ef30f0eb4776208e28cdc51a5b92495b30e31ad1707'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/h1WsEaNH/versions/tamQr4CM/firmacivplus-1.0.1-1.20.1.jar'
+url = "https://cdn.modrinth.com/data/h1WsEaNH/versions/tamQr4CM/firmacivplus-1.0.1-1.20.1.jar"
+hash-format = "sha256"
+hash = "6fcd6350dd2da622a01b99a3a8fbc8d7d1e82196433aa6f024c55dca461959d7"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'h1WsEaNH'
-version = 'tamQr4CM'
+mod-id = "h1WsEaNH"
+version = "tamQr4CM"
