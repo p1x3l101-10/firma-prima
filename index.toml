@@ -833,6 +833,23 @@ file = "config/patchouli-client.toml"
 hash = "3b6236845f6a5ff8804487b63b0d74305b91316dc9a008362838607b0be3bd8e"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/.keep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/paxi/resourcepacks/new-animals-for-terrafirmacraft.pw.toml"
+hash = "aa2127d3eeed3a5dd7c6afd74e8c67f1fa4ae2d379f97acaf474afeb4dfa152d"
+metafile = true
+
+[[files]]
 file = "config/powered_flashlight-server.toml"
 hash = "03a1fa1382339c168518d6f569f59746cf974c65151b283596c505ee072ae9a9"
 
@@ -1187,6 +1204,11 @@ hash = "22e13d07e1cf0205aa04248bad9fcc29aa22c3580d688d874aa3135a7da8e70d"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "a86ce796ebf9141ed1bd0bff0446f3f06a63f588245bb3d206364968ba1f83a6"
+metafile = true
+
+[[files]]
 file = "mods/barrels-2012.pw.toml"
 hash = "1c178f8372000d22cd7cf8a86725c8bf32f7eb4324876b97c70341733d0c5b06"
 metafile = true
@@ -1289,6 +1311,11 @@ metafile = true
 [[files]]
 file = "mods/decofirmacraft.pw.toml"
 hash = "fe38ba477f584a3e8b2b128090a2de8d377c824905003d957f2c8bcfb15903af"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
 metafile = true
 
 [[files]]
@@ -1617,6 +1644,11 @@ hash = "95150ef63c6192c00271e3c01e5aaac548dd8580b63fe93ce0cbb8b78d866ef3"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "be48890d990e03c639c5636c79bfa74bbd531c49a80487507984899c386a0bd9"
+metafile = true
+
+[[files]]
 file = "mods/powered-flashlight.pw.toml"
 hash = "34ee5ef1373462b46c45c1c3362d250d552ca72a0ddba02000b62704b235c2f1"
 metafile = true
@@ -1942,8 +1974,8 @@ hash = "baeeca907e0227ece4bc8f575a5cbd39521a3c50d59e53dbe52c7b490ceead4d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/new-animals-for-terrafirmacraft.pw.toml"
-hash = "aa2127d3eeed3a5dd7c6afd74e8c67f1fa4ae2d379f97acaf474afeb4dfa152d"
+file = "mods/yungs-api.pw.toml"
+hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
 
 [[files]]
