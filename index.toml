@@ -1709,6 +1709,11 @@ hash = "5b1ab500400a271a24ed231d914a47a01a0e63245cb410df1d2dc7e9c74265f0"
 metafile = true
 
 [[files]]
+file = "mods/scholar.pw.toml"
+hash = "ee402b020df43ac4265f5fcdb375798f31ea31862bd25445b5e78dc101de1000"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "8fed4a82792ca37ed74e3c2d283fca5de988c126ccee185d382909112b537c30"
 metafile = true
