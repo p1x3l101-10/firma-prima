@@ -1844,11 +1844,6 @@ hash = "18fbed78713a1cfa571fc11976a22cfa4cd36cc51ab97541be171cd1a5a46481"
 metafile = true
 
 [[files]]
-file = "mods/tfc-lumberjack.pw.toml"
-hash = "5b7f975c3aace96dc778af55dc457294476d5f1792db49a660284bc8e681c1d5"
-metafile = true
-
-[[files]]
 file = "mods/tfc-lunch-box.pw.toml"
 hash = "54f3509f40dde47e6b45a3412b99c9aa632a8648b94fc7fa1dcfdf85ae8145ad"
 metafile = true
