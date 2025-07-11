@@ -1634,11 +1634,6 @@ hash = "60c729bcab7036f787a0ee4be7aef71eead72c5a9e888b9eb59b86182e150fb9"
 metafile = true
 
 [[files]]
-file = "mods/nemos-inventory-sorting.pw.toml"
-hash = "8fde909ef8e2c0c82d36e3ffbfb4d212247717c456ac76ff5fab355e3584adad"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "d2afceec5a35a1f27d2990301be13a2131498b5643ce4e5faa03b3fbad765b1e"
 metafile = true
