@@ -1,13 +1,17 @@
-name = "TFC Punishment for Death"
-filename = "TFC_punishment_for_death-1.20.1-1.0.0.15.jar"
-side = "both"
+filename = 'TFC_punishment_for_death-1.20.1-1.0.0.16.jar'
+name = 'TFC Punishment for Death'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'TFC_punishment_for_death-1.20.1-1.0.0.16.jar'
 
 [download]
-hash-format = "sha256"
-hash = "afc97f91a29c43cdf879c8837f7aeec7295f708fcf1ff16563878a3ca770abde"
-mode = "metadata:curseforge"
+hash = 'e411976151d0f9d318839de2a3b5205af1d7b3bd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
-file-id = 6613067
+file-id = 7603100
 project-id = 1258250

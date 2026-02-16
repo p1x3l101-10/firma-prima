@@ -1,0 +1,18 @@
+#If true, all foods will share the same hunger value with respect to TFC food mechanics.
+overrideHunger = true
+#How much hunger restored per serve. By default, all TFC foods restore 4 hunger. (only valid when overrideHunger set to true)
+#Range: > 0
+hunger = 4
+#The multiplier for nutrition values of cuisine delight foods.
+nutritionMultiplier = "(-3.55 * E^(-0.3 * ($ingredientCount - 1)) + 4.5) / $ingredientCount"
+#The serve size for cuisine delight foods. Set to "$originServeSize" to use the original cuisine delight behavior.
+serveSize = "floor($ingredientCount / 2) + 1"
+#The decay modifier for cuisine delight foods. Higher = Faster decay. TFC soup is 3.5, salad is 4.
+#Range: > 0
+decayModifier = 3
+#The temperature that skillet can work. Set to -1 to disable skillet work on TFC hot block.
+#Range: > -1
+heatTempture = 200
+#If true, the farmer's delight heat source (eg. stove, magma block) can not be used for cooking.
+disableStove = false
+

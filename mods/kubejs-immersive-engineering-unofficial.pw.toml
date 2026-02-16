@@ -1,13 +1,16 @@
-name = "KubeJS Immersive Engineering UNOFFICIAL"
-filename = "kubejs-immersive-engineering-2001.5.29-build.23.jar"
-side = "both"
+filename = 'kubejs-immersive-engineering-2001.5.29-build.23.jar'
+name = 'KubeJS Immersive Engineering UNOFFICIAL'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha256"
-hash = "1724263e59c041dd83d226e491344e082e6252f75b248c94d683edc054d2daeb"
-mode = "metadata:curseforge"
+hash = 'aa319636e1de4ce92a982a9fda1a954ed71f03a7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 6593605
 project-id = 1141738

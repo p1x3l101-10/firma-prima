@@ -1,0 +1,17 @@
+filename = 'hexchanting-1.1.7.jar'
+name = 'Hexchanting'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.7'
+
+[download]
+hash = 'f48545580c343b6b7b907173d1a6d26a7fa00926ad86f347db956faa511c66616a0ab4f6f0d6f19eb08a0401ddbb9a908ea4c9b78c5d087f7e5bb183e3c4330f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UlOmzEJF/versions/GXgD69WU/hexchanting-1.1.7.jar'
+
+[update.modrinth]
+mod-id = 'UlOmzEJF'
+version = 'GXgD69WU'

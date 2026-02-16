@@ -1,13 +1,16 @@
-name = "Epic Knights: Ores and Alloys"
-filename = "[1.20.1-forge]-Epic-Knights-Ores-and-Alloys-1.1.jar"
-side = "both"
+filename = '[1.20.1-forge]-Epic-Knights-Ores-and-Alloys-1.1.jar'
+name = 'Epic Knights: Ores and Alloys'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha256"
-hash = "8f493e0f82a6476b97803bed49f518d0486ae4ef367b2f24012e78bcd4160ae7"
-mode = "metadata:curseforge"
+hash = 'f518c42c64f472e464adc067da389c0797af141b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 5857444
 project-id = 1125802

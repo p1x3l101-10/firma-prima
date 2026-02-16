@@ -1,0 +1,17 @@
+filename = 'tfc_aol-1.6-forge-1.20.1.jar'
+name = 'TFC: Art Of Light'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'version 6'
+
+[download]
+hash = '409260f002373de248c857808fdf11962a05038d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7455812
+project-id = 1376843

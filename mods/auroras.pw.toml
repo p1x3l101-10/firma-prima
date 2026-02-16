@@ -1,14 +1,16 @@
-name = "Auroras"
-filename = "Auroras-1.20.1-1.6.2.jar"
-side = "client"
+filename = 'Auroras-1.20.1-1.6.2.jar'
+name = 'Auroras'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/Q7VPWopC/versions/Y1QQeYYi/Auroras-1.20.1-1.6.2.jar"
-hash-format = "sha256"
-hash = "d10dfe4f57c371e387d89aeb38dd38568daa8522459a6aea778bd1d47e56362e"
-mode = "url"
+hash = '41a678484369764a2acbd98ae153b0eb104a8e201cd5600dd1cd5b31ec4d94d72266044102c2d82273ddbd8c089cd854a18d6b1366ffa1e2aa403b58ecf5cfce'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Q7VPWopC/versions/Y1QQeYYi/Auroras-1.20.1-1.6.2.jar'
 
-[update]
 [update.modrinth]
-mod-id = "Q7VPWopC"
-version = "Y1QQeYYi"
+mod-id = 'Q7VPWopC'
+version = 'Y1QQeYYi'

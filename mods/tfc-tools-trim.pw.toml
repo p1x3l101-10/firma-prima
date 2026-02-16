@@ -1,13 +1,16 @@
-name = "TFC Tools Trim"
-filename = "tfc_trim-1.2.jar"
-side = "both"
+filename = 'tfc_trim-1.2.jar'
+name = 'TFC Tools Trim'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha256"
-hash = "d79b0c9c4ba3e6bc302df1ebcff648f18188304eeb22afde59c0616c62a03c97"
-mode = "metadata:curseforge"
+hash = '5bc18dd2afff104f29c9c1449af89bf30b1266750b882c67aeb3267940e9661003536948309bbbc04218f1cde104d25ce39d7171671b88e8168d0fd493864d70'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PH6EghCA/versions/U9pypKUm/tfc_trim-1.2.jar'
 
-[update]
-[update.curseforge]
-file-id = 6679090
-project-id = 1281375
+[update.modrinth]
+mod-id = 'PH6EghCA'
+version = 'U9pypKUm'

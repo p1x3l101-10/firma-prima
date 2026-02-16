@@ -1,14 +1,16 @@
-name = "TFC Desire Paths"
-filename = "TFCDesirePaths-1.20.1-1.3.jar"
-side = "both"
+filename = 'TFCDesirePaths-1.20.1-1.3.jar'
+name = 'TFC Desire Paths'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/7ETmpdgC/versions/UuXfR7kU/TFCDesirePaths-1.20.1-1.3.jar"
-hash-format = "sha256"
-hash = "f2963089384011bee9e138da7497252bea7603f6993f94a0bb78c092499ea4b7"
-mode = "url"
+hash = '9b73b1563600e4bf78508a891077268030cde50994257c7b96532d40af2bb6ccaf1933ec544c017d64edf9478146474a382bee4e70300fdc5f4f45b2f93e3945'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7ETmpdgC/versions/UuXfR7kU/TFCDesirePaths-1.20.1-1.3.jar'
 
-[update]
 [update.modrinth]
-mod-id = "7ETmpdgC"
-version = "UuXfR7kU"
+mod-id = '7ETmpdgC'
+version = 'UuXfR7kU'

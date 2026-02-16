@@ -1,14 +1,16 @@
-name = "TFC Ore Loot"
-filename = "tfc-ore-loot-1.0.0.jar"
-side = "both"
+filename = 'tfc-ore-loot-1.0.0.jar'
+name = 'TFC Ore Loot'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/jHhwWASX/versions/qdNQSi9b/tfc-ore-loot-1.0.0.jar"
-hash-format = "sha256"
-hash = "283c8e4ad2d5bb7d9496881e6207f9d6b942e28389d67a48e875ff7f420a5796"
-mode = "url"
+hash = 'ca04b14fabd577c333addd6a82f1f559372b800eca2e2f12185d6c286f16e52539747e38a30c11224e996413796db5404a7b5e3a59886497804f2051f919943a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jHhwWASX/versions/qdNQSi9b/tfc-ore-loot-1.0.0.jar'
 
-[update]
 [update.modrinth]
-mod-id = "jHhwWASX"
-version = "qdNQSi9b"
+mod-id = 'jHhwWASX'
+version = 'qdNQSi9b'

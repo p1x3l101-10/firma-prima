@@ -1,14 +1,17 @@
-name = "Lychee"
-filename = "Lychee-1.20.1-Forge-5.1.19.jar"
-side = "both"
+filename = 'Lychee-1.20.1-Forge-5.1.24.jar'
+name = 'Lychee Tweaker'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.1.24+forge'
 
 [download]
-url = "https://cdn.modrinth.com/data/TdN6LxjM/versions/6sgceHqB/Lychee-1.20.1-Forge-5.1.19.jar"
-hash-format = "sha256"
-hash = "1776e293606d2521abe979c471671f0589bfd8e8db05ceb2866cf98cd815320c"
-mode = "url"
+hash = '3418de1a2b94598ccd7e16b96b66dbdeb5772e2e8b1ecaf73f23888a43219093c83285e26979adec86db5ce0afcf9e8a9297d575f79f2b6a785c67e9a74a88b4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TdN6LxjM/versions/JgM1EbHH/Lychee-1.20.1-Forge-5.1.24.jar'
 
-[update]
 [update.modrinth]
-mod-id = "TdN6LxjM"
-version = "6sgceHqB"
+mod-id = 'TdN6LxjM'
+version = 'JgM1EbHH'

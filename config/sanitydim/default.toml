@@ -193,9 +193,9 @@
 		#Sanity indicator configuration
 		[sanity.client.indicator]
 			#Whether to render sanity indicator
-			render = true
+			render = false
 			#Whether to twitch sanity indicator at low sanity levels
-			twitch = true
+			twitch = false
 			#Sanity indicator scale
 			#Range: 0.0 ~ 3.4028234663852886E38
 			scale = 1.0

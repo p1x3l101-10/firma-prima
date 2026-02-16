@@ -1,14 +1,30 @@
-name = "No Vanilla Advancements"
-filename = "no-vanilla-advancements-1.1.0.jar"
-side = "both"
+filename = 'no-vanilla-advancements-1.1.0.jar'
+name = 'No Vanilla Advancements'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21'
+]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/KKLHTM19/versions/VgNfEs66/no-vanilla-advancements-1.1.0.jar"
-hash-format = "sha256"
-hash = "32ad1e70ce8a2e0cef3ec76e12baf06397fe8fa77a8db2a81054a71f98faf004"
-mode = "url"
+hash = '56527ff7e0a62c9b756fe5d49df8f6a205e04b50e4fdad9bb3360f856b2c6add91615397e73ffc1054131e7aea213647e322709fe83cab09964e99fc4c8e9f9b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KKLHTM19/versions/VgNfEs66/no-vanilla-advancements-1.1.0.jar'
 
-[update]
 [update.modrinth]
-mod-id = "KKLHTM19"
-version = "VgNfEs66"
+mod-id = 'KKLHTM19'
+version = 'VgNfEs66'

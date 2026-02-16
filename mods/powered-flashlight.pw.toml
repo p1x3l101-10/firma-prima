@@ -1,14 +1,16 @@
-name = "Powered Flashlight"
-filename = "powered_flashlight-forge-1.20.1-1.0.0.jar"
-side = "both"
+filename = 'powered_flashlight-forge-1.20.1-1.0.0.jar'
+name = 'Powered Flashlight'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/cidr24jQ/versions/1tpZnh9i/powered_flashlight-forge-1.20.1-1.0.0.jar"
-hash-format = "sha256"
-hash = "85d4196ac23a486d1aba8460ca2316d3343a4533c62e5e914603bdda67d78656"
-mode = "url"
+hash = 'c1b64ff882b1b2f4f555874fed496620ca4d67093fa6eb447046499f0d0edc80a413d55d98b6e131bf1bc54aad1fe789e7fdd87cae3c319b2b2e7276b7ee9edc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cidr24jQ/versions/1tpZnh9i/powered_flashlight-forge-1.20.1-1.0.0.jar'
 
-[update]
 [update.modrinth]
-mod-id = "cidr24jQ"
-version = "1tpZnh9i"
+mod-id = 'cidr24jQ'
+version = '1tpZnh9i'

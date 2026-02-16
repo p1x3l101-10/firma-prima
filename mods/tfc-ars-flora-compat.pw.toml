@@ -1,0 +1,30 @@
+filename = 'tfc_ars_compat-1.20.1-1.0.0.jar'
+name = 'TFC - Ars  Flora Compat (Configurable Worldgen)'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [
+    '1.20.1',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2',
+    '1.20.3',
+    '1.20.3',
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.0.0'
+
+[download]
+hash = '18403d7538e8d6c311992160258131b19f7aa0a3a5a75011a9b6c0cf4fda5de820ec28ff73ac2c1647baf177561adc2309b18752864933b0c4f4a8dfa09f18fe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3HtDNHqB/versions/IGPUpCIM/tfc_ars_compat-1.20.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = '3HtDNHqB'
+version = 'IGPUpCIM'

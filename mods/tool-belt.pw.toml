@@ -1,13 +1,16 @@
-name = "Tool Belt"
-filename = "ToolBelt-1.20.1-1.20.02.jar"
-side = "both"
+filename = 'ToolBelt-1.20.1-1.20.02.jar'
+name = 'Tool Belt'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash-format = "sha256"
-hash = "717cad5de08223433f9f5ae467cf731288e69564eb7c4c19bcc2b49bc9191c3c"
-mode = "metadata:curseforge"
+hash = '3e4e2d2e3ee9486de4c6b64bcf8f25d87d55fc92'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
 file-id = 5929061
 project-id = 260262

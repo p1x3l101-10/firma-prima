@@ -1,14 +1,16 @@
-name = "Sanity: Descent Into Madness"
-filename = "sanitydim-mc1.20-1.1.0.jar"
-side = "both"
+filename = 'sanitydim-mc1.20-1.1.0.jar'
+name = 'Sanity: Descent Into Madness'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-url = "https://cdn.modrinth.com/data/8EwpjZay/versions/FVCQE08X/sanitydim-mc1.20-1.1.0.jar"
-hash-format = "sha256"
-hash = "d1f58851682586dde4a533b1a200d83cdafaee833299d45d4700e47433fa103a"
-mode = "url"
+hash = '5deb42fbf08de0191aec8105f17316cdc2089d0047bfe6bde1b8e9b9bd9d509a0fc62c67ad43b655f874bf65d18af3c64fc3a00096f95181c335e2032411718c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8EwpjZay/versions/FVCQE08X/sanitydim-mc1.20-1.1.0.jar'
 
-[update]
 [update.modrinth]
-mod-id = "8EwpjZay"
-version = "FVCQE08X"
+mod-id = '8EwpjZay'
+version = 'FVCQE08X'

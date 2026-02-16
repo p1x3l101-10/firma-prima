@@ -1,0 +1,17 @@
+filename = 'caduceus-forge-0.2.1+1.20.1.jar'
+name = 'Caduceus'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.2.1+1.20.1'
+
+[download]
+hash = '474b1c8b51179a650092e29c69ba46c56f35675e07a28c644cf1edf84fc94bc7063899252e89832b4839c02f0048bd601738e0f6e366f3e3564af56bee871d5d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Q6Hj9z4p/versions/4pEZysZU/caduceus-forge-0.2.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Q6Hj9z4p'
+version = '4pEZysZU'

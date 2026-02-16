@@ -1,14 +1,17 @@
-name = "GuideME"
-filename = "guideme-20.1.11.jar"
-side = "both"
+filename = 'guideme-20.1.14.jar'
+name = 'GuideME'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '20.1.14'
 
 [download]
-url = "https://cdn.modrinth.com/data/Ck4E7v7R/versions/mfDRKud3/guideme-20.1.11.jar"
-hash-format = "sha256"
-hash = "9e39a63d69327b9688a933c19ad360484e08fd198825e052181175f693a5cd79"
-mode = "url"
+hash = '15311cb0607205d2da3eb369499b8523bd0d8fa41e30c87c0b0e5756df5ea2123389262e6883f66e6c7b1d43d68e20cdfec73b31c202df8fbb99fa80d4fe7b1d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ck4E7v7R/versions/9YGnKYDF/guideme-20.1.14.jar'
 
-[update]
 [update.modrinth]
-mod-id = "Ck4E7v7R"
-version = "mfDRKud3"
+mod-id = 'Ck4E7v7R'
+version = '9YGnKYDF'

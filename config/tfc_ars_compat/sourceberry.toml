@@ -1,0 +1,11 @@
+#Horizontal spread within a patch (in blocks). Controls how far bushes can offset from the patch origin.
+xz_spread = 6
+#Additional patches per chunk (0/1 = default). Higher = more patches per chunk.
+count_per_chunk = 1
+#Number of placement attempts per patch (cluster size). Higher = more bushes in one patch.
+tries_per_patch = 32
+#Biome selectors for this profile. Use biome IDs (e.g. "tfc:plains") or tags starting with # (e.g. "#minecraft:is_overworld").
+biomes = ["#minecraft:is_overworld"]
+#Rarity: average once every N chunks (1 = every chunk). Lower = more frequent.
+rarity_chance = 24
+

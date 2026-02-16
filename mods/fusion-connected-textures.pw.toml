@@ -1,14 +1,17 @@
-name = "Fusion (Connected Textures)"
-filename = "fusion-1.2.7b-forge-mc1.20.1.jar"
-side = "client"
+filename = 'fusion-1.2.12-forge-mc1.20.1.jar'
+name = 'Fusion'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.12-forge-mc1.20.1'
 
 [download]
-url = "https://cdn.modrinth.com/data/p19vrgc2/versions/2d50nhi5/fusion-1.2.7b-forge-mc1.20.1.jar"
-hash-format = "sha256"
-hash = "be8fae0d9126bbb66f1827e7abb27f6eee5d0a566808a13e5f3840da1be50e77"
-mode = "url"
+hash = '90122c1dbfefb807f2a5beea56fc9d9beed2dec36abe04b28d91a7bcd9cab66e26acbe7281c31f418c56033fd88091f968bad6ae3ab0f582af04d29679555343'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/p19vrgc2/versions/EJMDd0qw/fusion-1.2.12-forge-mc1.20.1.jar'
 
-[update]
 [update.modrinth]
-mod-id = "p19vrgc2"
-version = "2d50nhi5"
+mod-id = 'p19vrgc2'
+version = 'EJMDd0qw'

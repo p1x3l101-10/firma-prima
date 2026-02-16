@@ -1,13 +1,17 @@
-name = "TFC Grooming Station"
-filename = "tfcgroomer-1.20.1-0.1.4.jar"
-side = "both"
+filename = 'tfcgroomer-1.20.1-0.2.4.jar'
+name = 'TFC: Grooming Station'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'tfcgroomer-1.20.1-0.2.4.jar'
 
 [download]
-hash-format = "sha256"
-hash = "ec376cb688dac10ac22246f67cc1f60f52b03026156799d6cba1c55fbdac1d0f"
-mode = "metadata:curseforge"
+hash = 'd675275100ba88b532775a2373ada6a280348a41'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update]
 [update.curseforge]
-file-id = 6118092
+file-id = 7606013
 project-id = 1003785
