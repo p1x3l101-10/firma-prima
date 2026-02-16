@@ -1843,10 +1843,6 @@ file = "mods/tfc-purified-water.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tfc-realistic-ceramics.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tfc-regrowing-forests.pw.toml"
 metafile = true
 
