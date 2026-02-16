@@ -24,6 +24,7 @@ jobs:
         working-directory: main
         run: |
           bash -c "rm -rf $(cat .packwizignore | xargs)"
+          rm .packwizignore
           echo "hash-format = \"sha256\"" > index.toml
           /usr/local/bin/packwiz refresh --build
       - name: Get key
