@@ -1,17 +1,20 @@
-filename = 'hexpose-1.0.0.jar'
-name = 'Hexpose'
-side = 'client'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.0'
+filename = "hexpose-1.0.0.jar"
+name = "Hexpose"
+side = "both"
+x-prismlauncher-loaders = ["fabric"]
+x-prismlauncher-mc-versions = [
+    "1.20.1",
+    "1.20.1",
+]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "1.0.0"
 
 [download]
-hash = 'a1c6b9c4ff12d7e294cbfc508a1b93f0d70a76b068a36038a165c29afc20dec75343a1286d2ab8d5b935f3b00362bb9f159bcda5ed800c3e61939a5f492674a4'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/VWvaiZqR/versions/o34yY7Me/hexpose-1.0.0.jar'
+hash = "a1c6b9c4ff12d7e294cbfc508a1b93f0d70a76b068a36038a165c29afc20dec75343a1286d2ab8d5b935f3b00362bb9f159bcda5ed800c3e61939a5f492674a4"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/VWvaiZqR/versions/o34yY7Me/hexpose-1.0.0.jar"
 
 [update.modrinth]
-mod-id = 'VWvaiZqR'
-version = 'o34yY7Me'
+mod-id = "VWvaiZqR"
+version = "o34yY7Me"

@@ -1,17 +1,20 @@
-filename = 'tfc_eratosthenes-Forge-1.20.1-0.1.1.jar'
-name = 'TFC Eratosthenes'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '0.1.1'
+filename = "tfc_eratosthenes-Forge-1.20.1-0.1.1.jar"
+name = "TFC Eratosthenes"
+side = "both"
+x-prismlauncher-loaders = ["forge"]
+x-prismlauncher-mc-versions = [
+    "1.20.1",
+    "1.20.1",
+]
+x-prismlauncher-release-type = "beta"
+x-prismlauncher-version-number = "0.1.1"
 
 [download]
-hash = 'd64e68294cb9f48d9290017554b5a11e4d5e19799f4c599fff61376f68be7d74e771c3deeb6ef7fc63cac205d374dcd421629fee21575f9d2a7396dc6d4aa1c5'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/dTSdKZe3/versions/CdFvuoA1/tfc_eratosthenes-Forge-1.20.1-0.1.1.jar'
+hash = "d64e68294cb9f48d9290017554b5a11e4d5e19799f4c599fff61376f68be7d74e771c3deeb6ef7fc63cac205d374dcd421629fee21575f9d2a7396dc6d4aa1c5"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/dTSdKZe3/versions/CdFvuoA1/tfc_eratosthenes-Forge-1.20.1-0.1.1.jar"
 
 [update.modrinth]
-mod-id = 'dTSdKZe3'
-version = 'CdFvuoA1'
+mod-id = "dTSdKZe3"
+version = "CdFvuoA1"

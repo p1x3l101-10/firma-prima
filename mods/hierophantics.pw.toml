@@ -1,17 +1,20 @@
-filename = 'hierophantics-forge-1.3.5.jar'
-name = 'Hierophantics'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.3.5'
+filename = "hierophantics-forge-1.3.5.jar"
+name = "Hierophantics"
+side = "both"
+x-prismlauncher-loaders = ["forge"]
+x-prismlauncher-mc-versions = [
+    "1.20.1",
+    "1.20.1",
+]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "1.3.5"
 
 [download]
-hash = 'b47bc4de37545d4c48c9f5e0c95093387cb52fceb5f67cd32c1a1c5d9c16f39f59966640518f465cbc42d717dfc1446105f101726ab921907ccd44b8f4c83005'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/ybwf7iLN/versions/XyBXRHQs/hierophantics-forge-1.3.5.jar'
+hash = "b47bc4de37545d4c48c9f5e0c95093387cb52fceb5f67cd32c1a1c5d9c16f39f59966640518f465cbc42d717dfc1446105f101726ab921907ccd44b8f4c83005"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/ybwf7iLN/versions/XyBXRHQs/hierophantics-forge-1.3.5.jar"
 
 [update.modrinth]
-mod-id = 'ybwf7iLN'
-version = 'XyBXRHQs'
+mod-id = "ybwf7iLN"
+version = "XyBXRHQs"

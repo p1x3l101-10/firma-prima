@@ -1,17 +1,20 @@
-filename = 'hexthings-forge-0.1.6.1+1.20.1.jar'
-name = 'HexThings'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.1.6.1+1.20.1'
+filename = "hexthings-forge-0.1.6.1+1.20.1.jar"
+name = "HexThings"
+side = "both"
+x-prismlauncher-loaders = ["forge"]
+x-prismlauncher-mc-versions = [
+    "1.20.1",
+    "1.20.1",
+]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "0.1.6.1+1.20.1"
 
 [download]
-hash = '8a9d2752a2d82bc12590218ec09bf4f80eded2cabe5ea44a2656edc82c7ea404873aca372f0cf2b06b7d4950df62a865e1af68a6ebfe804cb1b12b86b1a3e8d7'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/uRBPvIjK/versions/eF3Vw7gn/hexthings-forge-0.1.6.1%2B1.20.1.jar'
+hash = "8a9d2752a2d82bc12590218ec09bf4f80eded2cabe5ea44a2656edc82c7ea404873aca372f0cf2b06b7d4950df62a865e1af68a6ebfe804cb1b12b86b1a3e8d7"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/uRBPvIjK/versions/eF3Vw7gn/hexthings-forge-0.1.6.1%2B1.20.1.jar"
 
 [update.modrinth]
-mod-id = 'uRBPvIjK'
-version = 'eF3Vw7gn'
+mod-id = "uRBPvIjK"
+version = "eF3Vw7gn"

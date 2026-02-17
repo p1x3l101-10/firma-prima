@@ -1,17 +1,20 @@
-filename = 'tfc_cuisine-0.1.0.jar'
-name = 'TFC Cuisine'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.1.0'
+filename = "tfc_cuisine-0.1.0.jar"
+name = "TFC Cuisine"
+side = "both"
+x-prismlauncher-loaders = ["forge"]
+x-prismlauncher-mc-versions = [
+    "1.20.1",
+    "1.20.1",
+]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "0.1.0"
 
 [download]
-hash = '3fcc155f689dc86246125962c89304aab1eaf51c5817c7d86c2b0825c0a851b03a65007413bc5d1224779e46a13ea444dbe59a49c7b8b45bd3fa3b7b1a745017'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/bpnycTXB/versions/v2H1NmI9/tfc_cuisine-0.1.0.jar'
+hash = "3fcc155f689dc86246125962c89304aab1eaf51c5817c7d86c2b0825c0a851b03a65007413bc5d1224779e46a13ea444dbe59a49c7b8b45bd3fa3b7b1a745017"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/bpnycTXB/versions/v2H1NmI9/tfc_cuisine-0.1.0.jar"
 
 [update.modrinth]
-mod-id = 'bpnycTXB'
-version = 'v2H1NmI9'
+mod-id = "bpnycTXB"
+version = "v2H1NmI9"

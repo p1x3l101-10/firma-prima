@@ -1,17 +1,23 @@
-filename = 'TFCWeldButton-1.20.1-1.1.jar'
-name = 'TFC Weld Button'
-side = 'client'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1'
+filename = "TFCWeldButton-1.20.1-1.1.jar"
+name = "TFC Weld Button"
+side = "both"
+x-prismlauncher-loaders = [
+    "neoforge",
+    "forge",
+]
+x-prismlauncher-mc-versions = [
+    "1.20.1",
+    "1.20.1",
+]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "1.1"
 
 [download]
-hash = 'f10676722090db19f4af693949ad0891d26b5c4d2189fdb6536958875a57ea2cbb150634d68debc62ec407c32a8ce58a736f00ecfea03db5152d69cce25fe67d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/K9CZ9PGx/versions/dtoFhsbX/TFCWeldButton-1.20.1-1.1.jar'
+hash = "f10676722090db19f4af693949ad0891d26b5c4d2189fdb6536958875a57ea2cbb150634d68debc62ec407c32a8ce58a736f00ecfea03db5152d69cce25fe67d"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/K9CZ9PGx/versions/dtoFhsbX/TFCWeldButton-1.20.1-1.1.jar"
 
 [update.modrinth]
-mod-id = 'K9CZ9PGx'
-version = 'dtoFhsbX'
+mod-id = "K9CZ9PGx"
+version = "dtoFhsbX"

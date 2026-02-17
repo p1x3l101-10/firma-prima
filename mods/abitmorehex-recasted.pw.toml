@@ -1,17 +1,20 @@
-filename = 'abitmorehex_recasted-forge-0.1.1+1.20.1.jar'
-name = 'aBitMoreHex: Recasted'
-side = 'client'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.1.2+1.20.1'
+filename = "abitmorehex_recasted-forge-0.1.1+1.20.1.jar"
+name = "aBitMoreHex: Recasted"
+side = "both"
+x-prismlauncher-loaders = ["forge"]
+x-prismlauncher-mc-versions = [
+    "1.20.1",
+    "1.20.1",
+]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "0.1.2+1.20.1"
 
 [download]
-hash = '758dc550f158924375c1971e4a6932d5612b2a1455e3914164dddc65d3b5e1e3b68d75579d2000e0e363ecf2f02a4df793197789076e8ea524f63d2c741b14f9'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/C3CkKWad/versions/HMkLsc5P/abitmorehex_recasted-forge-0.1.1%2B1.20.1.jar'
+hash = "758dc550f158924375c1971e4a6932d5612b2a1455e3914164dddc65d3b5e1e3b68d75579d2000e0e363ecf2f02a4df793197789076e8ea524f63d2c741b14f9"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/C3CkKWad/versions/HMkLsc5P/abitmorehex_recasted-forge-0.1.1%2B1.20.1.jar"
 
 [update.modrinth]
-mod-id = 'C3CkKWad'
-version = 'HMkLsc5P'
+mod-id = "C3CkKWad"
+version = "HMkLsc5P"
