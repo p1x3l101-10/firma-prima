@@ -1078,6 +1078,9 @@ file = "kubejs/data/tfc/worldgen/biome/volcanic_oceanic_mountains.json"
 file = "kubejs/data/tfc/worldgen/placed_feature/geode.json"
 
 [[files]]
+file = "kubejs/data/tfc/worldgen/world_preset/overworld.json"
+
+[[files]]
 file = "kubejs/data/tfc_ie_addon/worldgen/placed_feature/quartz_geode.json"
 
 [[files]]
