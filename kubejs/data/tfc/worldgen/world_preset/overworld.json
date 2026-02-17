@@ -146,10 +146,10 @@
               "uplift"
             ]
           },
-          "temperature_scale": 20000,
-          "rainfall_scale": 20000,
+          "temperature_scale": 40000,
+          "rainfall_scale": 40000,
           "flat_bedrock": false,
-          "continentalness": 0.5
+          "continentalness": 0.25
         }
       }
     },
