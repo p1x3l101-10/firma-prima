@@ -1027,6 +1027,72 @@ file = "config/waves/waves.json"
 file = "config/whitenoise-client.toml"
 
 [[files]]
+file = "kubejs/README.txt"
+
+[[files]]
+file = "kubejs/client_scripts/hide-wildcards.js"
+
+[[files]]
+file = "kubejs/config/client.properties"
+
+[[files]]
+file = "kubejs/config/common.properties"
+
+[[files]]
+file = "kubejs/data/ae2/loot_tables/blocks/mysterious_cube.json"
+
+[[files]]
+file = "kubejs/data/ae2/tags/worldgen/biome/has_meteorites.json"
+
+[[files]]
+file = "kubejs/data/kubejs/loot_tables/blocks/glowstone_rock.json"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/blocks/composter.json"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/ore.json"
+
+[[files]]
+file = "kubejs/data/tfc/worldgen/biome/deep_ocean.json"
+
+[[files]]
+file = "kubejs/data/tfc/worldgen/biome/deep_ocean_trench.json"
+
+[[files]]
+file = "kubejs/data/tfc/worldgen/biome/ocean.json"
+
+[[files]]
+file = "kubejs/data/tfc/worldgen/biome/ocean_reef.json"
+
+[[files]]
+file = "kubejs/data/tfc/worldgen/biome/shore.json"
+
+[[files]]
+file = "kubejs/data/tfc/worldgen/biome/volcanic_oceanic_mountain_lake.json"
+
+[[files]]
+file = "kubejs/data/tfc/worldgen/biome/volcanic_oceanic_mountains.json"
+
+[[files]]
+file = "kubejs/data/tfc/worldgen/placed_feature/geode.json"
+
+[[files]]
+file = "kubejs/data/tfc_ie_addon/worldgen/placed_feature/quartz_geode.json"
+
+[[files]]
+file = "kubejs/server_scripts/adding_recipes-ae2.js"
+
+[[files]]
+file = "kubejs/server_scripts/ars_tfc.js"
+
+[[files]]
+file = "kubejs/server_scripts/removed_recipes-ae2.js"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+
+[[files]]
 file = "mods/abitmorehex-recasted.pw.toml"
 metafile = true
 
