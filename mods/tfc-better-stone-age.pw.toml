@@ -1,16 +1,16 @@
-filename = 'bsa-1.2.1.jar'
-name = 'TFC Better Stone Age'
-side = 'server'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'bsa-1.2.1.jar'
+filename = "bsa-1.2.1.jar"
+name = "TFC Better Stone Age"
+side = "both"
+x-prismlauncher-loaders = ["forge"]
+x-prismlauncher-mc-versions = ["1.20.1"]
+x-prismlauncher-release-type = "release"
+x-prismlauncher-version-number = "bsa-1.2.1.jar"
 
 [download]
-hash = '87080d764fbcc2ca13ca453a8bd34d356666e4c4'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "87080d764fbcc2ca13ca453a8bd34d356666e4c4"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 6869236
