@@ -2606,17 +2606,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/terrafirmacraft-music.pw.toml"
-hash = "8c276bf55665202f4ed70e8f64eb8a113c9b7c8b7830c2611630a7cfd4659d06"
+hash = "ca357a4fbd306af73a8ffa467807d0d4241a43b9146bade50b0cf210873d76b2"
 metafile = true
 
 [[files]]
 file = "resourcepacks/tfc-anvil-helper.pw.toml"
-hash = "f2e2f6caa25c0410ae1f7bfaf2a879cbe99316a347953f4c47780d43ebb189eb"
+hash = "0cd911644d009d6bca61e586a8e5feca03dc1480c70d11c4dc1cccd8b64854b3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/tfc-improved-stone-tools.pw.toml"
-hash = "6d6a1dbf24f06cf4aad719a847588c2c6500bca0daedddef83f34984347904b2"
+hash = "8d3cd7d4b76fc783f16a95a62ee677981280c4146e3bc8ae385c716281488f9d"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 filename = "tfc_ist_rp-1.1.zip"
 name = "TFC: Improved Stone Tools"
-side = ""
+side = "client"
 
 [download]
 hash = "567e9e6c65cb39f951e741b3e27f8a81fc33e4ff"

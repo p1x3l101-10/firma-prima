@@ -1,6 +1,6 @@
 name = "TFC Anvil Helper"
 filename = "Perfected Anvil Helper.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha256"

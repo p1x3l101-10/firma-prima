@@ -1,6 +1,6 @@
 filename = "TFC Music.zip"
 name = "TerraFirmaCraft Music"
-side = ""
+side = "client"
 
 [download]
 hash = "d4f49d58a8f1d29378a372a31df9700d60e6b017"
