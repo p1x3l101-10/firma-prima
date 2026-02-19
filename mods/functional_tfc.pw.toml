@@ -6,7 +6,7 @@ side = "both"
 hash = "e77f3a842c22561ed78d9508103a31673ed27c2df4c580234b3633975722b73b17c7fa277ce951b4349414bf7583f830e654811bf925ceb18cafedfe919037cd"
 hash-format = "sha512"
 mode = "url"
-url = "https://cdn.modrinth.com/data/VKlnpTri/versions/zPusf9K3/Functional TFC 1.20.1-0.0.4.jar"
+url = "https://cdn.modrinth.com/data/VKlnpTri/versions/zPusf9K3/Functional%20TFC%201.20.1-0.0.4.jar"
 
 [update.modrinth]
 mod-id = "VKlnpTri"

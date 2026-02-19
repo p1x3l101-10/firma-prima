@@ -1781,7 +1781,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanting-with-tfc.pw.toml"
-hash = "005b6f60c1567d3ba15c04623865e0ec193e61561fb011455fbcc55267d585ed"
+hash = "0c9de63b2995a9a1af96a6e4218cc73f35f3dd9991c057f3a36f002f1a67b049"
 metafile = true
 
 [[files]]
@@ -1876,7 +1876,7 @@ metafile = true
 
 [[files]]
 file = "mods/functional_tfc.pw.toml"
-hash = "ff879197156bbd15805742df92c99aabd6d431aa49a7937777c944447cb7cb3b"
+hash = "de68d65299ee0a2c2316cb459d56562f210402f6f8a481473db930f0ac397305"
 metafile = true
 
 [[files]]
@@ -2146,7 +2146,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
-hash = "46521d41c1542079b6ba3cdc25918a7352967528a96e2ded11612837eba5fb0e"
+hash = "aff339ecac2b9453d7363be7f6cd6e9415e87827aa1423a218ed3450b7f7bbd5"
 metafile = true
 
 [[files]]
@@ -2226,7 +2226,7 @@ metafile = true
 
 [[files]]
 file = "mods/sacks-n-such.pw.toml"
-hash = "c8f134a750289e5fd23c899430501c48585b1b2b18d89f2c6f29d88c636a8dc2"
+hash = "999c80e4ecaceb65aee33b52c47f50034b368777307a27866a35396f8d4067c7"
 metafile = true
 
 [[files]]
