@@ -2035,6 +2035,11 @@ hash = "8de140642322b442decf63e62e5095fca6ecac686a0b2e696484886e54d98906"
 metafile = true
 
 [[files]]
+file = "mods/json-things.pw.toml"
+hash = "87a44d6b5809a25d586f30c6a17f4a777194a582bd7c34e8504ae1abe4ba7c74"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "7a0049859c8b08209b61a366cdb5200453b85ea1c078feba1da6e489829626d5"
 metafile = true

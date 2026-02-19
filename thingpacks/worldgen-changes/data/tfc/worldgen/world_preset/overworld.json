@@ -148,8 +148,9 @@
           },
           "temperature_scale": 40000,
           "rainfall_scale": 40000,
-          "flat_bedrock": false,
-          "continentalness": 0.25
+          "flat_bedrock": true,
+          "continentalness": 0.435,
+          "grassDensity": 0.625
         }
       }
     },
