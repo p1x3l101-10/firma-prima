@@ -1369,102 +1369,6 @@ file = "config/whitenoise-client.toml"
 hash = "d31db13ba0f951e3b157f967b07c09310ae95ccf08b06dedf088629ead521d58"
 
 [[files]]
-file = "kubejs/README.txt"
-hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
-
-[[files]]
-file = "kubejs/assets/.keep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "kubejs/client_scripts/hide-wildcards.js"
-hash = "93180cdd9b840a0e48adf3fca7afbb3cb350a9e3d227419ab1734e729dbeea7e"
-
-[[files]]
-file = "kubejs/config/client.properties"
-hash = "bc65a7eeb4b480801957fe151b28eefd70549bab78ac231c26016481f5a9d046"
-
-[[files]]
-file = "kubejs/config/common.properties"
-hash = "e1074eca9ff730f9577c35b7b185a4de229cab577ccb0de6d9b4c15b71f73ea1"
-
-[[files]]
-file = "kubejs/data/ae2/loot_tables/blocks/mysterious_cube.json"
-hash = "df45cc623be95a81a58e78d08f168cd64a5d894627c1177dde972ad6f7b46955"
-
-[[files]]
-file = "kubejs/data/ae2/tags/worldgen/biome/has_meteorites.json"
-hash = "1fff243edb058974d135195c1bf1bfd9f0842039b31ec8019068d8995ac6b0be"
-
-[[files]]
-file = "kubejs/data/kubejs/loot_tables/blocks/glowstone_rock.json"
-hash = "8e6b179af2f0abef5dbae5848948ab2fef57f5a42ac65ff7473294a29d352088"
-
-[[files]]
-file = "kubejs/data/minecraft/loot_tables/blocks/composter.json"
-hash = "84fcb3a04bce4f7fc0d3784d8a8eb06d7f5a6fc802f1ed525d3469b70974b001"
-
-[[files]]
-file = "kubejs/data/minecraft/worldgen/configured_feature/ore.json"
-hash = "8bd188ce2e5dd7e397293e262b8bb0f28cd86e47f7a5eefddecf2919fab6083d"
-
-[[files]]
-file = "kubejs/data/tfc/worldgen/biome/deep_ocean.json"
-hash = "15b9704a87673af6bf50d81eac8beab222f79f7158e06c7fca3cc8010c601e1d"
-
-[[files]]
-file = "kubejs/data/tfc/worldgen/biome/deep_ocean_trench.json"
-hash = "8122d963eb3e7455cae58a9c0f70b31c65849ce15eb33f993ce0e161ed2ebc31"
-
-[[files]]
-file = "kubejs/data/tfc/worldgen/biome/ocean.json"
-hash = "891102960791cd05dff282146749bcac64f2975fd8f9e4887ba0533bb7605f00"
-
-[[files]]
-file = "kubejs/data/tfc/worldgen/biome/ocean_reef.json"
-hash = "056bbedd5b4a8e57331f64d3a8a713abc4ec8ed9eff2c6a402be7937f7522bdc"
-
-[[files]]
-file = "kubejs/data/tfc/worldgen/biome/shore.json"
-hash = "831a40d255b926fce751e15d5efdccaab99c3807ebab8977f5240471831d1f4b"
-
-[[files]]
-file = "kubejs/data/tfc/worldgen/biome/volcanic_oceanic_mountain_lake.json"
-hash = "b4f9c7f3d7a6828a0020aa751646523932b4613834b25bed146eaced53db64e6"
-
-[[files]]
-file = "kubejs/data/tfc/worldgen/biome/volcanic_oceanic_mountains.json"
-hash = "215fd7de8641b247c6b6d8c4204591006a5b7575794b7d132d58e6c3ee4ab067"
-
-[[files]]
-file = "kubejs/data/tfc/worldgen/placed_feature/geode.json"
-hash = "8ae2e6329d6df78a70384631964869f4af31e321c305a107833fe98243a06c49"
-
-[[files]]
-file = "kubejs/data/tfc/worldgen/world_preset/overworld.json"
-hash = "32b454f825f9fcc6278d7e2f47f6831abe6f408a8afee3c8803a0c67708a4ca6"
-
-[[files]]
-file = "kubejs/data/tfc_ie_addon/worldgen/placed_feature/quartz_geode.json"
-hash = "ce1f78bf77f1ab9261527ebbdc1b23f6101328e79fc41a458f90f9a6a50820ce"
-
-[[files]]
-file = "kubejs/server_scripts/adding_recipes-ae2.js"
-hash = "3f24188800e44f61757550217bd85f018b04606af21ff5a791905510bc39873e"
-
-[[files]]
-file = "kubejs/server_scripts/ars_tfc.js"
-hash = "7c5f1780f5a2952f1b589b55ae8a940cc48f8937556042c907669a29f5e34201"
-
-[[files]]
-file = "kubejs/server_scripts/removed_recipes-ae2.js"
-hash = "51a8a9e68231ef38eb5c49804bbcd52e6b5ea958ce7d61712b201fb08b2bb903"
-
-[[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
-
-[[files]]
 file = "mods/abitmorehex-recasted.pw.toml"
 hash = "9131ebb23efbe8edff7e7bde0aaec8d8bdb0808c8a67b5adaa6a9d6e9d14793e"
 metafile = true
@@ -2055,31 +1959,6 @@ hash = "e81d19b552518de4acc59c23de5eb3bfe9bf354d1716fd65603a197cb2a04e78"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-curios.pw.toml"
-hash = "2f3d2bb6c7756f9bc6c7db36522d6c16af584ddd69d6a0940140c24fd720551d"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-immersive-engineering-unofficial.pw.toml"
-hash = "22b47f4887962ec76bf65161ecb1b8532750e67cfbb0c78cd5d7929906239f9c"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-sanity.pw.toml"
-hash = "f8f18f9adb2da02928ca6fa71728011c376bd2a9ae913ffc8813bd55a568e9d1"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-tfc.pw.toml"
-hash = "7e5d5134416733a98aaf2cc40e4bfcac0c6c876fc0618a19fc57f9ed8d93f8b9"
-metafile = true
-
-[[files]]
-file = "mods/kubejs.pw.toml"
-hash = "785b158d4072915cc726d93ec8cb6dcc74105e321515d013030b9be4f19d8a59"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "9ed0d30fdbe09f8209c2b5cf58fd0b0c00b206d2838a3405f750316f15999477"
 metafile = true
@@ -2217,11 +2096,6 @@ metafile = true
 [[files]]
 file = "mods/reblured.pw.toml"
 hash = "b0df41ced2ecf7d027a7d03dfedd7c9409d93cd2c2883eee7eb91b22f03a12c2"
-metafile = true
-
-[[files]]
-file = "mods/rhino.pw.toml"
-hash = "61ccd5cd04d2c861fdeb4c6a842a43f73801cb72c614223174013b800a0ec7ee"
 metafile = true
 
 [[files]]
@@ -2623,6 +2497,70 @@ metafile = true
 file = "resourcepacks/tfc-improved-stone-tools.pw.toml"
 hash = "8d3cd7d4b76fc783f16a95a62ee677981280c4146e3bc8ae385c716281488f9d"
 metafile = true
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/ae2/loot_tables/blocks/mysterious_cube.json"
+hash = "df45cc623be95a81a58e78d08f168cd64a5d894627c1177dde972ad6f7b46955"
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/ae2/tags/worldgen/biome/has_meteorites.json"
+hash = "1fff243edb058974d135195c1bf1bfd9f0842039b31ec8019068d8995ac6b0be"
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/kubejs/loot_tables/blocks/glowstone_rock.json"
+hash = "8e6b179af2f0abef5dbae5848948ab2fef57f5a42ac65ff7473294a29d352088"
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/minecraft/loot_tables/blocks/composter.json"
+hash = "84fcb3a04bce4f7fc0d3784d8a8eb06d7f5a6fc802f1ed525d3469b70974b001"
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/minecraft/worldgen/configured_feature/ore.json"
+hash = "8bd188ce2e5dd7e397293e262b8bb0f28cd86e47f7a5eefddecf2919fab6083d"
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/tfc/worldgen/biome/deep_ocean.json"
+hash = "15b9704a87673af6bf50d81eac8beab222f79f7158e06c7fca3cc8010c601e1d"
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/tfc/worldgen/biome/deep_ocean_trench.json"
+hash = "8122d963eb3e7455cae58a9c0f70b31c65849ce15eb33f993ce0e161ed2ebc31"
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/tfc/worldgen/biome/ocean.json"
+hash = "891102960791cd05dff282146749bcac64f2975fd8f9e4887ba0533bb7605f00"
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/tfc/worldgen/biome/ocean_reef.json"
+hash = "056bbedd5b4a8e57331f64d3a8a713abc4ec8ed9eff2c6a402be7937f7522bdc"
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/tfc/worldgen/biome/shore.json"
+hash = "831a40d255b926fce751e15d5efdccaab99c3807ebab8977f5240471831d1f4b"
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/tfc/worldgen/biome/volcanic_oceanic_mountain_lake.json"
+hash = "b4f9c7f3d7a6828a0020aa751646523932b4613834b25bed146eaced53db64e6"
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/tfc/worldgen/biome/volcanic_oceanic_mountains.json"
+hash = "215fd7de8641b247c6b6d8c4204591006a5b7575794b7d132d58e6c3ee4ab067"
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/tfc/worldgen/placed_feature/geode.json"
+hash = "8ae2e6329d6df78a70384631964869f4af31e321c305a107833fe98243a06c49"
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/tfc/worldgen/world_preset/overworld.json"
+hash = "6f981c0318c19e323d96c499fe2ea624707536f6bc87a6d114aa841173f3256f"
+
+[[files]]
+file = "thingpacks/worldgen-changes/data/tfc_ie_addon/worldgen/placed_feature/quartz_geode.json"
+hash = "ce1f78bf77f1ab9261527ebbdc1b23f6101328e79fc41a458f90f9a6a50820ce"
+
+[[files]]
+file = "thingpacks/worldgen-changes/pack.mcmeta"
+hash = "2293944eb7da3014ff67f3d118eeb7c84efc680538d200d4a0a654b463016c6c"
 
 [[files]]
 file = "unsup.ini"
