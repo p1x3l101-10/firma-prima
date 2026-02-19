@@ -1,16 +1,12 @@
-filename = 'tfc_arch-1.2-forge-1.20.1.jar'
-name = 'TFC: Archery Aplenty'
-side = ''
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'version 1.2'
+filename = "tfc_arch-1.2-forge-1.20.1.jar"
+name = "TFC: Archery Aplenty"
+side = ""
 
 [download]
-hash = '875b12ab888b18cb3ca683afa3719dbe2d24e8e6'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "875b12ab888b18cb3ca683afa3719dbe2d24e8e6"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 7613196

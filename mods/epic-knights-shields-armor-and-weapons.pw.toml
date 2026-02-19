@@ -1,17 +1,13 @@
-filename = 'epic-knights-1.20.1-forge-10.6.jar'
-name = 'Epic Knights Mod'
-side = ''
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '10.6'
+filename = "epic-knights-1.20.1-forge-10.6.jar"
+name = "Epic Knights Mod"
+side = ""
 
 [download]
-hash = '3f22201d9e85f27827c3b45cb0cabf43fecd7d6669c0d23f0ffa1900bc109090e3dfb0650e5999ca60b603ebc655001b054f9bcdea58b3d4b27c027f6fce7067'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/L6jvzao4/versions/gwN1aUaY/epic-knights-1.20.1-forge-10.6.jar'
+hash = "3f22201d9e85f27827c3b45cb0cabf43fecd7d6669c0d23f0ffa1900bc109090e3dfb0650e5999ca60b603ebc655001b054f9bcdea58b3d4b27c027f6fce7067"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/L6jvzao4/versions/gwN1aUaY/epic-knights-1.20.1-forge-10.6.jar"
 
 [update.modrinth]
-mod-id = 'L6jvzao4'
-version = 'gwN1aUaY'
+mod-id = "L6jvzao4"
+version = "gwN1aUaY"

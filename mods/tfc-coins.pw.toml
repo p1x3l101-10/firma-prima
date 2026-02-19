@@ -1,16 +1,12 @@
-filename = 'tfc_coins-5.jar'
-name = 'TFC Coins'
-side = ''
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'version 5'
+filename = "tfc_coins-5.jar"
+name = "TFC Coins"
+side = ""
 
 [download]
-hash = '92a54b0f3f71da2060d921f12580eaac17dbddfa'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "92a54b0f3f71da2060d921f12580eaac17dbddfa"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 6939564

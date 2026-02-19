@@ -1,13 +1,6 @@
 filename = "ephemera-forge-1.20.1-0.3.1.jar"
 name = "Ephemera"
 side = "both"
-x-prismlauncher-loaders = ["forge"]
-x-prismlauncher-mc-versions = [
-    "1.20.1",
-    "1.20.1",
-]
-x-prismlauncher-release-type = "beta"
-x-prismlauncher-version-number = "0.3.1"
 
 [download]
 hash = "f84f74efd987da1ba26f318c8a435b9c459d03ab86d5dbbd1a50a64bf342090bd82d160535498b2689fc0c01cdeb6727fdc0bf2e055fea86132426c8e9136191"

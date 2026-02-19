@@ -1,16 +1,12 @@
-filename = 'tfclunchbox-1.20.1-1.0.0.29.jar'
-name = 'TFC Lunch Box'
-side = ''
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'tfclunchbox-1.20.1-1.0.0.29.jar'
+filename = "tfclunchbox-1.20.1-1.0.0.29.jar"
+name = "TFC Lunch Box"
+side = ""
 
 [download]
-hash = '251e6d19e7f75f1b6f0b46fbc01f04b313952b0e'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "251e6d19e7f75f1b6f0b46fbc01f04b313952b0e"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 7603117

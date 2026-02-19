@@ -1,13 +1,6 @@
 filename = "morelavatfc-1.0.0.jar"
 name = "More Lava TFC"
 side = "both"
-x-prismlauncher-loaders = ["forge"]
-x-prismlauncher-mc-versions = [
-    "1.20.1",
-    "1.20.1",
-]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "1.0.0"
 
 [download]
 hash = "3b5c0196c8bf8f5176ce23de558bf7b184dd97e60ff29b5697283cb9009ad162edd9b3cb6bfee86ecf327e0f9794ca79aa7b184f35c377eff4ebf72d8d5bd1e1"

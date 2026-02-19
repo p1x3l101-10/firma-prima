@@ -1,13 +1,6 @@
 filename = "survivorsaquaculture-1.0.1.jar"
 name = "Survivor's Aquaculture"
 side = "both"
-x-prismlauncher-loaders = ["forge"]
-x-prismlauncher-mc-versions = [
-    "1.20.1",
-    "1.20.1",
-]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "1.0.1"
 
 [download]
 hash = "8b3412b3ce95198565ae7937073dba60fad9eddbcb3fbf99bb56c0c98828026fd5769b7145f78f9d336904571e36778836ddf1354e1ecc9e274cc6686cbfd926"

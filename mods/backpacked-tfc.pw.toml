@@ -1,9 +1,6 @@
 filename = "backpacked_tfc-1.2.0-forge-1.20.1.jar"
 name = "Backpacked TFC"
 side = "both"
-x-prismlauncher-loaders = ["forge"]
-x-prismlauncher-mc-versions = ["1.20.1"]
-x-prismlauncher-release-type = "release"
 
 [download]
 hash = "6282f189f0ce07b5fa13cf15b0f727e31230a5037276921cf349aa4a77ef6ccd185037eda716a3df3456e5c02bb1e382ab817c0bd5f1d7b9ba28b80d5118f37d"

@@ -1,16 +1,13 @@
-filename = 'tfcea-0.0.2.jar'
-name = 'TFC Electrical Appliances'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'alpha'
+filename = "tfcea-0.0.2.jar"
+name = "TFC Electrical Appliances"
+side = "both"
 
 [download]
-hash = 'e965532482b97dee44e31def3dbd989dd6856025b43406a10b41d9ca31a249753f1ac07db5516431d6744b06e6b47249c51c9fef0f0a040378bfa95e0caaae77'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/1M8YQeNa/versions/baqQSpAP/tfcea-0.0.2.jar'
+hash = "e965532482b97dee44e31def3dbd989dd6856025b43406a10b41d9ca31a249753f1ac07db5516431d6744b06e6b47249c51c9fef0f0a040378bfa95e0caaae77"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/1M8YQeNa/versions/baqQSpAP/tfcea-0.0.2.jar"
 
 [update.modrinth]
-mod-id = '1M8YQeNa'
-version = 'baqQSpAP'
+mod-id = "1M8YQeNa"
+version = "baqQSpAP"

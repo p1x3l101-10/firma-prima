@@ -7,7 +7,6 @@ url = "https://cdn.modrinth.com/data/qIWoLcKJ/versions/cLai9e3c/Forge-Version-pr
 hash-format = "sha512"
 hash = "9de58a19f8ffcbdeb358de54a486d618bbb428905684c6c8e6e6f93680f49231c3e4c5629319f067b49d5c8a0eb1e59e927c5e1a6b42457b739d1711ee02fcf0"
 
-[update]
 [update.modrinth]
 mod-id = "qIWoLcKJ"
 version = "cLai9e3c"

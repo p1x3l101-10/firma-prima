@@ -1,16 +1,6 @@
 filename = "corals-tfc-1.0.0-forge-1.20.1.jar"
 name = "Corals TFC // 1.18.2 // 1.20.1 // 1.21.1 //"
 side = "both"
-x-prismlauncher-loaders = [
-    "neoforge",
-    "forge",
-]
-x-prismlauncher-mc-versions = [
-    "1.20.1",
-    "1.20.1",
-]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "1.0.0"
 
 [download]
 hash = "a90975332d74e56e00ecb1b7fcad2195b2c6bb4bbe5d87366e0d94db80d26e06684ef5523edfd4594020375ea50bbf8b203f1493faaf512bc3ef88797471207e"

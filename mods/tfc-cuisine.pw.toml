@@ -1,13 +1,6 @@
 filename = "tfc_cuisine-0.1.0.jar"
 name = "TFC Cuisine"
 side = "both"
-x-prismlauncher-loaders = ["forge"]
-x-prismlauncher-mc-versions = [
-    "1.20.1",
-    "1.20.1",
-]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "0.1.0"
 
 [download]
 hash = "3fcc155f689dc86246125962c89304aab1eaf51c5817c7d86c2b0825c0a851b03a65007413bc5d1224779e46a13ea444dbe59a49c7b8b45bd3fa3b7b1a745017"

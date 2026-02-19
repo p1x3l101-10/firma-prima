@@ -1,16 +1,13 @@
-filename = 'tfcivilization_atlases-1.1.0-forge-1.20.1.jar'
-name = 'TFCivilization Atlases'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+filename = "tfcivilization_atlases-1.1.0-forge-1.20.1.jar"
+name = "TFCivilization Atlases"
+side = "both"
 
 [download]
-hash = 'f0ed245c19a267c4efdf9767814f14d4cfe71ae0a0e32b739c667fe814c6b6f2bb621d52890423ea217ed0db0539fe7eb071db37c1c8657c80f4e27ec775fb39'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/TsPVAakB/versions/4AE5K8ER/tfcivilization_atlases-1.1.0-forge-1.20.1.jar'
+hash = "f0ed245c19a267c4efdf9767814f14d4cfe71ae0a0e32b739c667fe814c6b6f2bb621d52890423ea217ed0db0539fe7eb071db37c1c8657c80f4e27ec775fb39"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/TsPVAakB/versions/4AE5K8ER/tfcivilization_atlases-1.1.0-forge-1.20.1.jar"
 
 [update.modrinth]
-mod-id = 'TsPVAakB'
-version = '4AE5K8ER'
+mod-id = "TsPVAakB"
+version = "4AE5K8ER"

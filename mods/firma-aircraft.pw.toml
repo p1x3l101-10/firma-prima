@@ -1,13 +1,6 @@
 filename = "firma_aircraft-1.1.jar"
 name = "Firma Aircraft"
 side = "both"
-x-prismlauncher-loaders = ["forge"]
-x-prismlauncher-mc-versions = [
-    "1.20.1",
-    "1.20.1",
-]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "1.1"
 
 [download]
 hash = "95f30f65d608026b0be0ef19746ca02d2462fea8c076a91e73319df8a236a4be9007902a9011acfd4c9f210f6909f7cc64a34eb13af3780ed91df75611be76b8"

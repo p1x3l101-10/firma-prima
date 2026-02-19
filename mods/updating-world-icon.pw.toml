@@ -1,15 +1,12 @@
-filename = 'Updating World Icon-forge-1.20.1-1.0.1.jar'
-name = 'Updating World Icon'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+filename = "Updating World Icon-forge-1.20.1-1.0.1.jar"
+name = "Updating World Icon"
+side = "both"
 
 [download]
-hash = '8a1c1df2f21fdcaa0b7c4748e3393f68f41a391a'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "8a1c1df2f21fdcaa0b7c4748e3393f68f41a391a"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 4633262

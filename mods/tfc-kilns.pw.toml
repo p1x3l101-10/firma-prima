@@ -1,16 +1,12 @@
-filename = 'tfc_kac-1.0.1.jar'
-name = 'TFC: Kilns and Crates!'
-side = ''
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'version 1'
+filename = "tfc_kac-1.0.1.jar"
+name = "TFC: Kilns and Crates!"
+side = ""
 
 [download]
-hash = 'e3b4559b2824fe2aa2666f12c6a96799403a9c64'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "e3b4559b2824fe2aa2666f12c6a96799403a9c64"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 6967378

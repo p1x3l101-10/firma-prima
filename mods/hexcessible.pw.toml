@@ -1,13 +1,6 @@
 filename = "hexcessible-0.2.0.jar"
 name = "Hexcessible"
 side = "both"
-x-prismlauncher-loaders = ["fabric"]
-x-prismlauncher-mc-versions = [
-    "1.20.1",
-    "1.20.1",
-]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "0.2.0"
 
 [download]
 hash = "eb54341068deb54480a8619ea3cab62131a148b1728049e2c723161a8632062871d1cd560636b4ec3b381cca22568785105c682689c7d1e6f12cad7ab8de002c"

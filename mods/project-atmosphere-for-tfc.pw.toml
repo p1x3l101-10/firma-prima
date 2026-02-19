@@ -1,13 +1,6 @@
 filename = "projectatmospherefortfc-0.0.3.jar"
 name = "Project Atmosphere for TFC"
 side = "both"
-x-prismlauncher-loaders = ["forge"]
-x-prismlauncher-mc-versions = [
-    "1.20.1",
-    "1.20.1",
-]
-x-prismlauncher-release-type = "beta"
-x-prismlauncher-version-number = "Forge-0.0.3"
 
 [download]
 hash = "f0e17d9006737a4965309399bbec56d4a4b31373a5dc4fb7b703dba78ee05f9139abdd5d0c7b6697d16dc83106f2c3fef24cc56095878cad2b95d666bdb02e73"

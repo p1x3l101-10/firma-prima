@@ -1,16 +1,13 @@
-filename = 'terrafly-1.0.0-forge-1.20.1.jar'
-name = 'TerraFly'
-side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
+filename = "terrafly-1.0.0-forge-1.20.1.jar"
+name = "TerraFly"
+side = "both"
 
 [download]
-hash = 'dd7aa03e25cc5cd22f491225b5db77c52688ad2b58120ee8e57e87f3ec015a8725cd693777023a10c83fcc2697d0b3dd78c7dbaf6c3cc22187add436e5f72714'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/SToe0BhV/versions/2SdzqRr9/terrafly-1.0.0-forge-1.20.1.jar'
+hash = "dd7aa03e25cc5cd22f491225b5db77c52688ad2b58120ee8e57e87f3ec015a8725cd693777023a10c83fcc2697d0b3dd78c7dbaf6c3cc22187add436e5f72714"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/SToe0BhV/versions/2SdzqRr9/terrafly-1.0.0-forge-1.20.1.jar"
 
 [update.modrinth]
-mod-id = 'SToe0BhV'
-version = '2SdzqRr9'
+mod-id = "SToe0BhV"
+version = "2SdzqRr9"

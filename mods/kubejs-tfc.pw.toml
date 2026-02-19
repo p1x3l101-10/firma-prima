@@ -1,17 +1,13 @@
-filename = 'kubejs_tfc-1.20.1-1.3.3.jar'
-name = 'KubeJS TFC'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.3.3'
+filename = "kubejs_tfc-1.20.1-1.3.3.jar"
+name = "KubeJS TFC"
+side = ""
 
 [download]
-hash = '8d9a61fa3eb441ff8b098e4f5ed87b49bc3ce5568750d8ab27846ef49862892a8f4cb085994e7c30f6d3c56fce59b7fa7c7f40b951f048c89f05f85df3d8a68b'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/mhtClB2S/versions/XeAvj4GH/kubejs_tfc-1.20.1-1.3.3.jar'
+hash = "8d9a61fa3eb441ff8b098e4f5ed87b49bc3ce5568750d8ab27846ef49862892a8f4cb085994e7c30f6d3c56fce59b7fa7c7f40b951f048c89f05f85df3d8a68b"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/mhtClB2S/versions/XeAvj4GH/kubejs_tfc-1.20.1-1.3.3.jar"
 
 [update.modrinth]
-mod-id = 'mhtClB2S'
-version = 'XeAvj4GH'
+mod-id = "mhtClB2S"
+version = "XeAvj4GH"

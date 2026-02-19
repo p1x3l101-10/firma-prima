@@ -1,13 +1,6 @@
 filename = "terra_atmos-1.4.2.jar"
 name = "terra_atmos"
 side = "both"
-x-prismlauncher-loaders = ["forge"]
-x-prismlauncher-mc-versions = [
-    "1.20.1",
-    "1.20.1",
-]
-x-prismlauncher-release-type = "release"
-x-prismlauncher-version-number = "1.4.2"
 
 [download]
 hash = "92e6bd394de50474970e130da82a4b092eb477c286923e3cf81665f876f58e53b4153a7ace43a801ccd38efa64f976637d4e06a01e9ee95b46164e0f277dcedf"

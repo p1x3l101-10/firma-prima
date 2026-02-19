@@ -1,16 +1,12 @@
-filename = 'TFC_Spindles-1.20.1-forge-1.0.1.jar'
-name = 'Spindles TFC'
-side = ''
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'TFC_Spindles-1.20.1-forge-1.0.1.jar'
+filename = "TFC_Spindles-1.20.1-forge-1.0.1.jar"
+name = "Spindles TFC"
+side = ""
 
 [download]
-hash = '13cbbcc4cc7fc665b1850db8d5deb79fa9e19107'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "13cbbcc4cc7fc665b1850db8d5deb79fa9e19107"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 6749542

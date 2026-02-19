@@ -1,17 +1,13 @@
-filename = 'dfc-0.8.1.jar'
-name = 'DecoFirmaCraft'
-side = ''
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.8.1'
+filename = "dfc-0.8.1.jar"
+name = "DecoFirmaCraft"
+side = ""
 
 [download]
-hash = 'eba84518b902c8747330bb01e1e6b2e8503c76d80c2a8fe05b7e794ce7f2b0bd2437541976a054c7ab4da54a94c40e93cf880e3735457e0ca2d0da31fb22616c'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/p06DPXOV/versions/Eq7rlKJL/dfc-0.8.1.jar'
+hash = "eba84518b902c8747330bb01e1e6b2e8503c76d80c2a8fe05b7e794ce7f2b0bd2437541976a054c7ab4da54a94c40e93cf880e3735457e0ca2d0da31fb22616c"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/p06DPXOV/versions/Eq7rlKJL/dfc-0.8.1.jar"
 
 [update.modrinth]
-mod-id = 'p06DPXOV'
-version = 'Eq7rlKJL'
+mod-id = "p06DPXOV"
+version = "Eq7rlKJL"

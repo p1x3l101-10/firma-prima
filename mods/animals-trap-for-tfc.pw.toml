@@ -1,15 +1,12 @@
-filename = 'AnimalTrapTFC-1.20.1-forge-1.0.1.jar'
-name = 'Animals Trap for TFC'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
+filename = "AnimalTrapTFC-1.20.1-forge-1.0.1.jar"
+name = "Animals Trap for TFC"
+side = "both"
 
 [download]
-hash = '3edf220d4863c4610cbe6b2b5c9c985e59735c3a'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "3edf220d4863c4610cbe6b2b5c9c985e59735c3a"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+url = ""
 
 [update.curseforge]
 file-id = 4997031

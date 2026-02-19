@@ -1,17 +1,13 @@
-filename = 'survivorsabilities-1.3.5-all.jar'
+filename = "survivorsabilities-1.3.5-all.jar"
 name = "Survivor's Abilities"
-side = ''
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.3.5'
+side = ""
 
 [download]
-hash = '9448181c71edfd13058cb2cb1d99d7246933aef069e1e928593ee4d3fd1a778d3a8d36c823812d92308aea8402b8c4b7e5bd8d40314e924efd061f844746e63d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/a4odN4zk/versions/rAyk86cO/survivorsabilities-1.3.5-all.jar'
+hash = "9448181c71edfd13058cb2cb1d99d7246933aef069e1e928593ee4d3fd1a778d3a8d36c823812d92308aea8402b8c4b7e5bd8d40314e924efd061f844746e63d"
+hash-format = "sha512"
+mode = "url"
+url = "https://cdn.modrinth.com/data/a4odN4zk/versions/rAyk86cO/survivorsabilities-1.3.5-all.jar"
 
 [update.modrinth]
-mod-id = 'a4odN4zk'
-version = 'rAyk86cO'
+mod-id = "a4odN4zk"
+version = "rAyk86cO"
