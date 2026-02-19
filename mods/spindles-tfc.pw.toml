@@ -1,6 +1,6 @@
 filename = "TFC_Spindles-1.20.1-forge-1.0.1.jar"
 name = "Spindles TFC"
-side = ""
+side = "both"
 
 [download]
 hash = "13cbbcc4cc7fc665b1850db8d5deb79fa9e19107"

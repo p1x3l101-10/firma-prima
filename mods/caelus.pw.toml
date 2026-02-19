@@ -1,6 +1,6 @@
 filename = "caelus-forge-3.2.0+1.20.1.jar"
 name = "Caelus API"
-side = ""
+side = "both"
 
 [download]
 hash = "906baad404c33288d8daf8937bc6a85d3bcc03db67a4a68395b8f01eea57f773420ff97919aadb08a7618b62b0c6c3db72270f9c3af836b822385464f509cf78"

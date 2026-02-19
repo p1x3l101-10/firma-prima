@@ -1,6 +1,6 @@
 filename = "scholar-1.20.1-1.1.9-forge.jar"
 name = "Scholar"
-side = ""
+side = "both"
 
 [download]
 hash = "08ed6ef563eb66b0444ebb432e69e04462e8d1be00368f505b1fc11c22ec65a54f61e7e11a36c1791a18df7c14b2d6b670b5e1cbf9c8c99aa7ab435afe671aca"

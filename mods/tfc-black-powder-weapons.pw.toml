@@ -1,6 +1,6 @@
 filename = "tfc_muskets-1.20.1-forge-1.0.3.jar"
 name = "TFC Muskets"
-side = ""
+side = "both"
 
 [download]
 hash = "c51aa0b9a3f498e011947778aacc705675476f3ab2040c27d07c0f244af9932100256e3ebfcfdf789774b44ac61e45c79806317ae98c458fa4bb8ec87a5655b5"

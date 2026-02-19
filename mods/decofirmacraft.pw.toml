@@ -1,6 +1,6 @@
 filename = "dfc-0.8.1.jar"
 name = "DecoFirmaCraft"
-side = ""
+side = "both"
 
 [download]
 hash = "eba84518b902c8747330bb01e1e6b2e8503c76d80c2a8fe05b7e794ce7f2b0bd2437541976a054c7ab4da54a94c40e93cf880e3735457e0ca2d0da31fb22616c"

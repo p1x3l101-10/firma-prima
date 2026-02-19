@@ -1,6 +1,6 @@
 filename = "supplementaries-1.20-3.1.42-forge.jar"
 name = "Supplementaries"
-side = ""
+side = "both"
 
 [download]
 hash = "8d52268d665af7d82186cec39d80216078fcf80c3960df07c0ebcf3bf6ff427329932bc2ad7536757a00e26b91c89cbbd4292ed367be786a84ddc00c1bbf208a"

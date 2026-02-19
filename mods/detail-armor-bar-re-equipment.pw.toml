@@ -1,6 +1,6 @@
 filename = "Detail Armor Bar Re-equipment-2.7.0+1.20.1-forge.jar"
 name = "Detail Armor Bar Re-equipment"
-side = ""
+side = "both"
 
 [download]
 hash = "0fc9c503eb147f5a2929ee4d500f5295ef80cef4"

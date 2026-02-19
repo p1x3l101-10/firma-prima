@@ -1,6 +1,6 @@
 filename = "Lychee-1.20.1-Forge-5.1.24.jar"
 name = "Lychee Tweaker"
-side = ""
+side = "both"
 
 [download]
 hash = "3418de1a2b94598ccd7e16b96b66dbdeb5772e2e8b1ecaf73f23888a43219093c83285e26979adec86db5ce0afcf9e8a9297d575f79f2b6a785c67e9a74a88b4"

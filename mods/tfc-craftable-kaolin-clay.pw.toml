@@ -1,6 +1,6 @@
 filename = "tfcckc-5.0.jar"
 name = "TFC:ckc"
-side = ""
+side = "both"
 
 [download]
 hash = "27307365479af4b32243b61cd9d0fcc15bf2a5f4"

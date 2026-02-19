@@ -1,6 +1,6 @@
 filename = "TFC-IE-Crossover-1.20.1-1.3.1.jar"
 name = "TFC + IE Crossover"
-side = ""
+side = "both"
 
 [download]
 hash = "bf6fec19b9816f5683ec02841b7e185834525787db1097917af0f40ecbbbeb6eabc7721cfd712bcb1edefae32a9a81d4bef675c3cb2574b9256feb5a56351a16"

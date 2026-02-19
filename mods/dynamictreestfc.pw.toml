@@ -1,6 +1,6 @@
 filename = "DynamicTreesTFC-1.20.1-2.0.2.jar"
 name = "Dynamic Trees TFC"
-side = ""
+side = "both"
 
 [download]
 hash = "8c36138e84c751d9f3b5ba34cff6476c87b8341c81b91b7da9f38416302ef1d70e1a3c37953e4a21d7c8a91374c2cefbf9bd7d85830606ed9bbfcfab5727cc88"

@@ -1,6 +1,6 @@
 filename = "knightsofterrafirma-3.0.3.jar"
 name = "Epic Knights of TerraFirma"
-side = ""
+side = "both"
 
 [download]
 hash = "97aeccaafe732a829f96ec1f7e4af30e6cbe31a9670d58be1595b719bc42ad7201d821a2cc9f2391eebdbb2a21031e0ac530e18fe6e024a900c10aaa9e82c645"

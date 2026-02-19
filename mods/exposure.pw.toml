@@ -1,6 +1,6 @@
 filename = "exposure-forge-1.20.1-1.9.13.jar"
 name = "Exposure"
-side = ""
+side = "both"
 
 [download]
 hash = "cb45c695be8c67ad371e0d4a691a38367a3a03e9ce9d8d3e47dbd1f47dac3c08e49deb21053a8925e66d45d891fc50c58d7c59ff6f9992279456d8f00979543d"

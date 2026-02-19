@@ -1,6 +1,6 @@
 filename = "survivorsabilities-1.3.5-all.jar"
 name = "Survivor's Abilities"
-side = ""
+side = "both"
 
 [download]
 hash = "9448181c71edfd13058cb2cb1d99d7246933aef069e1e928593ee4d3fd1a778d3a8d36c823812d92308aea8402b8c4b7e5bd8d40314e924efd061f844746e63d"

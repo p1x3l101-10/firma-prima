@@ -1,6 +1,6 @@
 filename = "rnr-0.2.2-1.20.1.jar"
 name = "Roads and Roofs TFC"
-side = ""
+side = "both"
 
 [download]
 hash = "abf0dfbf5bc201c75a688bdcd6232e038fc5d5c9f540ec7057b0ea42455655233059c91ce5e63fc17a7a0422960740abcc02079f181e27e39a5b4dee16e72c91"

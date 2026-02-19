@@ -1,6 +1,6 @@
 filename = "e4mc-forge-6.0.6.jar"
 name = "e4mc"
-side = ""
+side = "both"
 
 [download]
 hash = "cc4a15b2097aac560f1e620abef683ef13e80b0e9fd347ae61bd5da3671ca7eb3c45086090a6695896368e41b2739314cf93ba9ec33fb4b2c181b792b442b555"

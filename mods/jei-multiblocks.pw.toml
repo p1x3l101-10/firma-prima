@@ -1,6 +1,6 @@
 filename = "jeimultiblocks-1.20.1-1.0.6.jar"
 name = "Just Enough Immersive Multiblocks"
-side = ""
+side = "both"
 
 [download]
 hash = "d427324b381d7301aa960493284107d8c17f69026d41b9e591b7c4a20651c03a254681dece05fd9892540ddc4b255add0a2dca55902e9375b2761c0158601c50"

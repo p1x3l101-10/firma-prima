@@ -1,6 +1,6 @@
 filename = "gaboulibs-forge-1.7.1.jar"
 name = "Gabou's Libs"
-side = ""
+side = "both"
 
 [download]
 hash = "6012de7e30090f56f9819641f5af42a35130f5e4c9a0d05671af5e3c21be6a12893b3209036517cb7563a6c6917bccfd0ee8744fd8bd250072ece3e885a75168"

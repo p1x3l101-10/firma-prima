@@ -1,6 +1,6 @@
 filename = "tfclunchbox-1.20.1-1.0.0.29.jar"
 name = "TFC Lunch Box"
-side = ""
+side = "both"
 
 [download]
 hash = "251e6d19e7f75f1b6f0b46fbc01f04b313952b0e"

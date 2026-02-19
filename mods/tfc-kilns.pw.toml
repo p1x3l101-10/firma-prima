@@ -1,6 +1,6 @@
 filename = "tfc_kac-1.0.1.jar"
 name = "TFC: Kilns and Crates!"
-side = ""
+side = "both"
 
 [download]
 hash = "e3b4559b2824fe2aa2666f12c6a96799403a9c64"

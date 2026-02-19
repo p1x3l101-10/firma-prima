@@ -1,6 +1,6 @@
 filename = "tfc_aol-1.6-forge-1.20.1.jar"
 name = "TFC: Art Of Light"
-side = ""
+side = "both"
 
 [download]
 hash = "409260f002373de248c857808fdf11962a05038d"

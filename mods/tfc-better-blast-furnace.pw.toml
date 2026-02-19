@@ -1,6 +1,6 @@
 filename = "TFCBetterBlastFurnace-1.20.1-1.0.2.jar"
 name = "TFC Better Blast Furnace"
-side = ""
+side = "both"
 
 [download]
 hash = "e40bc10f114bce20b9c003a7d42a97834d5a1bcc"

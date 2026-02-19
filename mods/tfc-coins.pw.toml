@@ -1,6 +1,6 @@
 filename = "tfc_coins-5.jar"
 name = "TFC Coins"
-side = ""
+side = "both"
 
 [download]
 hash = "92a54b0f3f71da2060d921f12580eaac17dbddfa"

@@ -1,6 +1,6 @@
 filename = "dynamiccrosshair-9.10+1.20.1-forge.jar"
 name = "Dynamic Crosshair"
-side = ""
+side = "both"
 
 [download]
 hash = "570964ca53b106aa47a9c1997f048d39fe621dcecfccb676f1349c4f5aa9df6623ab855b8a6a75766fa347c742d88714f85cfc54d9efdbeef59651082a8c2a14"

@@ -1,6 +1,6 @@
 filename = "Firmalife-1.20.1-2.1.27.jar"
 name = "Firmalife"
-side = ""
+side = "both"
 
 [download]
 hash = "3f5d468fab6534a059f197415774939e81e3b1cff9ee55ab5af417abbb32c61536f72f7bbab29f707e4eef43e64df947127fb0dd8af065636e0db762ab96e4bd"

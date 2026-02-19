@@ -1,6 +1,6 @@
 filename = "appliedenergistics2-forge-15.4.10.jar"
 name = "Applied Energistics 2"
-side = ""
+side = "both"
 
 [download]
 hash = "edc08a999b57e80426c737efa5b50c6d19ab40cb03f752bc26e2912fe12b989cefd5feff519ce0d87a4717a74c22a99242263ee4de63c1c84f91306d156134ee"

@@ -1,6 +1,6 @@
 filename = "simpleclouds-0.7.3+1.20.1-forge-all.jar"
 name = "Simple Clouds"
-side = ""
+side = "both"
 
 [download]
 hash = "cdcdaf9ecb6443723ceb6fb59b492ffd3167fd65bf196262d9d564a84a45b865caef34e11188ad89b86023cc7bfb855b0ff67e48e5cf9365513370c96c512427"

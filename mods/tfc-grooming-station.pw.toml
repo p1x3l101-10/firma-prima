@@ -1,6 +1,6 @@
 filename = "tfcgroomer-1.20.1-0.2.4.jar"
 name = "TFC: Grooming Station"
-side = ""
+side = "both"
 
 [download]
 hash = "d675275100ba88b532775a2373ada6a280348a41"

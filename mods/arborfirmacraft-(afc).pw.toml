@@ -1,6 +1,6 @@
 filename = "afc-1.0.20-1.20.1.jar"
 name = "ArborFirmaCraft"
-side = ""
+side = "both"
 
 [download]
 hash = "1cde189f8f66a6cb23a97280dd5ffcadb1626b57d4332dd9d138b87766975a5296ee61b36da19fde99c93a5cc69abc0612291b601937bef0c3516ab32e10a300"

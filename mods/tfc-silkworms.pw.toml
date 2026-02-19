@@ -1,6 +1,6 @@
 filename = "tfc_silkworms-1.4-forge-1.20.1.jar"
 name = "TFC: Silkworms"
-side = ""
+side = "both"
 
 [download]
 hash = "4b53fbcfd25fa828427f0bb9bc372d60431d3935"
