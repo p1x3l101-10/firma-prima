@@ -1,1 +1,26 @@
-{}
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "ae2:calculation_processor"
+    },
+    "b": {
+      "item": "firmalife:metal/ingot/stainless_steel"
+    },
+    "c": {
+      "tag": "forge:ingots/gold"
+    },
+    "d": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "pattern": [
+    "abb",
+    "cdc"
+  ],
+  "result": {
+    "count": 1,
+    "id": "ae2:memory_card"
+  }
+}

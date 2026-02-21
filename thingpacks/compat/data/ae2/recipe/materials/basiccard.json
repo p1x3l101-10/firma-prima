@@ -1,1 +1,27 @@
-{}
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "forge:ingots/gold"
+    },
+    "b": {
+      "item": "firmalife:metal/ingot/stainless_steel"
+    },
+    "c": {
+      "tag": "forge:dusts/redstone"
+    },
+    "d": {
+      "item": "ae2:calculation_processor"
+    }
+  },
+  "pattern": [
+    "ab ",
+    "cdb",
+    "ab "
+  ],
+  "result": {
+    "count": 2,
+    "id": "ae2:basic_card"
+  }
+}

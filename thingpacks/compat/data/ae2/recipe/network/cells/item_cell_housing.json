@@ -1,1 +1,27 @@
-{}
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "ae2:quartz_glass"
+    },
+    "b": {
+      "tag": "forge:dusts/redstone"
+    },
+    "c": {
+      "item": "dfc:metal/ingot/platinum"
+    },
+    "d": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "pattern": [
+    "aba",
+    "b b",
+    "cdc"
+  ],
+  "result": {
+    "count": 1,
+    "id": "ae2:item_cell_housing"
+  }
+}

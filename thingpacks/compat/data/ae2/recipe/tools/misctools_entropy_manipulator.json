@@ -1,1 +1,27 @@
-{}
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "firmalife:metal/rod/stainless_steel"
+    },
+    "b": {
+      "item": "ae2:engineering_processor"
+    },
+    "c": {
+      "item": "ae2:energy_cell"
+    },
+    "d": {
+      "item": "ae2:fluix_crystal"
+    }
+  },
+  "pattern": [
+    " cd",
+    " ab",
+    "a  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "ae2:entropy_manipulator"
+  }
+}

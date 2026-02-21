@@ -1,1 +1,24 @@
-{}
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "immersiveengineering:plate_duroplast"
+    },
+    "b": {
+      "tag": "ae2:all_certus_quartz"
+    },
+    "c": {
+      "tag": "firmaprima:circuits/t1"
+    }
+  },
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "result": {
+    "item": "ae2:cell_component_1k"
+  },
+  "show_notification": true
+}
