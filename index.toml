@@ -2504,275 +2504,283 @@ hash = "8d3cd7d4b76fc783f16a95a62ee677981280c4146e3bc8ae385c716281488f9d"
 metafile = true
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/certus_quartz_axe.json"
+file = "thingpacks/compat/data/ae2/recipe/charger/meteorite_compass"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/certus_quartz_cutting_knife.json"
+file = "thingpacks/compat/data/ae2/recipe/materials/advancedcard"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/certus_quartz_hoe.json"
+file = "thingpacks/compat/data/ae2/recipe/materials/basiccard"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/certus_quartz_pickaxe.json"
+file = "thingpacks/compat/data/ae2/recipe/materials/cardspeed"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/certus_quartz_spade.json"
+file = "thingpacks/compat/data/ae2/recipe/misc/chests_sky_stone"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/certus_quartz_sword.json"
+file = "thingpacks/compat/data/ae2/recipe/misc/chests_smooth_sky_stone"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/certus_quartz_wrench.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/cell_workbench"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/fluix_axe.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/controller"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/fluix_hoe.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/crank"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/fluix_pickaxe.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/crystal_processing_charger"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/fluix_shovel.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/crystal_processing_growth_accelerator"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/fluix_sword.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/energy_energy_acceptor"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/fluix_upgrade_smithing_template.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/energy_vibration_chamber"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/matter_cannon.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/inscribers"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/misctools_charged_staff.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/interfaces_interface"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/misctools_entropy_manipulator.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/io_condenser"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/nether_quartz_axe.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/io_port"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/nether_quartz_cutting_knife.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/pattern_providers_interface"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/nether_quartz_hoe.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/quantum_ring"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/nether_quartz_pickaxe.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/spatial_anchor"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/nether_quartz_spade.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/spatial_io_port"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/nether_quartz_sword.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/storage_chest"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/nether_quartz_wrench.json"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/storage_drive"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network_color_applicator.json"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/item_cell_housing"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network_memory_card.json"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_16k"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network_tool.json"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_1k"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_black.json"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_256k"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_blue.json"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_4k"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_brown.json"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_64k"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_cyan.json"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_components_cell_1k_part"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_gray.json"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/spatial_storage_cell_128_cubed"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_green.json"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/spatial_storage_cell_16_cubed"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_light_blue.json"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/spatial_storage_cell_2_cubed"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_light_gray.json"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/view_cell"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lime.json"
+file = "thingpacks/compat/data/ae2/recipe/network/crafting/cpu_crafting_unit"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_black.json"
+file = "thingpacks/compat/data/ae2/recipe/network/crafting/molecular_assembler"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_blue.json"
+file = "thingpacks/compat/data/ae2/recipe/network/crafting/patterns_blank"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_brown.json"
+file = "thingpacks/compat/data/ae2/recipe/network/crystal_resonance_generator"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_cyan.json"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/annihilation_plane_alt"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_gray.json"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/annihilation_plane_alt2"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_green.json"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/export_bus"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_light_blue.json"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/formation_plane"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_light_gray.json"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/formation_plane_alt"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_lime.json"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/import_bus"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_magenta.json"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/panels_semi_dark_monitor"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_orange.json"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/tunnels_me"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_pink.json"
+file = "thingpacks/compat/data/ae2/recipe/network/wireless_booster"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_purple.json"
+file = "thingpacks/compat/data/ae2/recipe/network/wireless_part"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_red.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_axe"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_white.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_cutting_knife"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_yellow.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_hoe"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_magenta.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_pickaxe"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_orange.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_spade"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_pink.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_sword"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_purple.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/fluix_axe"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_red.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/fluix_hoe"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_white.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/fluix_pickaxe"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/paintballs_yellow.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/fluix_shovel"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/portable_fluid_cell_16k.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/fluix_sword"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/portable_fluid_cell_1k.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/matter_cannon"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/portable_fluid_cell_256k.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/misctools_charged_staff"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/portable_fluid_cell_4k.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/misctools_entropy_manipulator"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/portable_fluid_cell_64k.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_axe"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/portable_item_cell_16k.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_cutting_knife"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/portable_item_cell_1k.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_hoe"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/portable_item_cell_256k.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_pickaxe"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/portable_item_cell_4k.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_spade"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/portable_item_cell_64k.json"
+file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_sword"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/tools/network_color_applicator"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/tools/network_memory_card"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
