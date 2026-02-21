@@ -1539,6 +1539,11 @@ hash = "670e2f56ca8a7f5165a3080ccb8422f875648a2dc1b6c052769bf4dd0306190b"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "5b0eaf19630d6145093ae6ff9a21cf2dbdd0da53d9289673ad5ccb099afa18b7"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "b34bb9591f7016a91a8de05a07fccde0a78ec32f46c78a71f948bab46388d3bf"
 metafile = true
@@ -1961,6 +1966,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "9ed0d30fdbe09f8209c2b5cf58fd0b0c00b206d2838a3405f750316f15999477"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "ccb79452729ccb62e2a3afa88b80e834411ac1e9ed4712cbd27be6ba98d4ff79"
 metafile = true
 
 [[files]]
