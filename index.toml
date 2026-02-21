@@ -2434,11 +2434,6 @@ hash = "90e715efcb5739a68e9f856e09d2370b5ccbb21eace4df20c22ac6593c55e826"
 metafile = true
 
 [[files]]
-file = "mods/tfcivilization-atlases.pw.toml"
-hash = "c7f439589b13095649d6eb11805266e64de5134ab05019c960ec3bd217c30112"
-metafile = true
-
-[[files]]
 file = "mods/titanium.pw.toml"
 hash = "dbd3bf23f0b4c9351d1121d3a0b42898199a3be8aa2eeab1457b67f6ed60cd26"
 metafile = true
@@ -2507,6 +2502,14 @@ metafile = true
 file = "resourcepacks/tfc-improved-stone-tools.pw.toml"
 hash = "8d3cd7d4b76fc783f16a95a62ee677981280c4146e3bc8ae385c716281488f9d"
 metafile = true
+
+[[files]]
+file = "thingpacks/compat/data/map_atlases/recipes/craft_atlas.json"
+hash = "98778df2f13571685389aa9905b84cc2f327f5a17243ff273908d3de578c784c"
+
+[[files]]
+file = "thingpacks/compat/pack.mcmeta"
+hash = "055d8da72584de0c63676aa8b60b91f71f5631e1d08c87441d690e0d65077bc6"
 
 [[files]]
 file = "thingpacks/worldgen-changes/data/ae2/loot_tables/blocks/mysterious_cube.json"
