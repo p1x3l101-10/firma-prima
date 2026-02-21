@@ -105,6 +105,22 @@ file = "config/alekiships-server.toml"
 hash = "0fc4c673f74dc59643f6cfb238515371ac9386da6938bd8c86d6e9a7f6261e3c"
 
 [[files]]
+file = "config/almostunified/debug.json"
+hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "40639e8cb9e9ea52b8557c50d29fc06e73e2ad1e7ca27ae5ce8fe2eca2e97188"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "23159b1ed8215bf862ac954057c7d969bb2579cca29222ef09634f6dba5b8f56"
+
+[[files]]
 file = "config/antiquelegacy/armors.json5"
 hash = "331f01156181038bbb0328604ceda67b430040e3200a0f55a989866efbd65c0f"
 
@@ -577,6 +593,10 @@ file = "config/coldsweat/world.toml"
 hash = "ed5d87cb5d464487f9743e718e4b8ed19f5f8599a96854c5b4df211ffce482c7"
 
 [[files]]
+file = "config/connectivity.json"
+hash = "6b95731807c56659d67f5c439439493834d0c42ad33baf23ef60d45bb7e73202"
+
+[[files]]
 file = "config/connector.json"
 hash = "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22"
 
@@ -622,7 +642,7 @@ hash = "c6b3ceb80bb8fba4e7956961abc063e76eb399a098d4227061afd540c1c3a72f"
 
 [[files]]
 file = "config/darkness.properties"
-hash = "d2be4c453fcaa3baa4532cccc3138f0b291d99d5579227a56b82d5fcf06793bc"
+hash = "e80fcd262f797e3e57385783023b4f899a1db56684b52ea098f84cce6ef75f72"
 
 [[files]]
 file = "config/de/mari_023/ae2wtlib.json5"
@@ -746,7 +766,7 @@ hash = "f199c2c0afa9d52f6358a7819d6a8d4db18b931132f45647bb818b69c7e26fb6"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "1cddf5e250b1b8fa4689e9e36fbcf80203d9b5be9e8852344febacda7f5ab907"
+hash = "948dcdae2843028459d6ddfb41b077df410f89cf0fc923d5926dbd79797ae2be"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -957,6 +977,10 @@ file = "config/lithium.properties"
 hash = "b87ee52fdc722ce1497e7ff55fdbd0660fc9df40c8f2f8167465cab55a388f0d"
 
 [[files]]
+file = "config/lmft.json"
+hash = "4846032c4ea16277b5ba5622f77017472c15b6b23a60fc144c3e2959f91f6ee9"
+
+[[files]]
 file = "config/localizedchat-common.toml"
 hash = "bc2c7398865cb094e0ba57059a40812ca7eda4c9ff932682fa8713776ed07964"
 
@@ -1047,6 +1071,10 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "config/paxi/resourcepacks/TerraFirmaCraft_New_Animals.zip"
 hash = "01ee61826183de6256f320dd9e7452e952123fe56caee695c20473b52e84487a"
+
+[[files]]
+file = "config/polymorph-integrations.toml"
+hash = "47c2b8a65ca08ee0a73400bf6b8ccc0a831b4c220fa95097eff6216456fc511a"
 
 [[files]]
 file = "config/powered_flashlight-server.toml"
@@ -1337,16 +1365,28 @@ file = "config/voicechat-client.toml"
 hash = "366f0ef6b5ef068aa1e5ef636fa2ec723803b8bcf1b200f958ac99ec21edde72"
 
 [[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
+
+[[files]]
 file = "config/voicechat/translations.properties"
 hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
 
 [[files]]
+file = "config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "39dadb488d035083b03f0221a7195a0ee91b31a474464f6dd650a800be05a824"
+hash = "5bb5d49dbee1172334851e4a4541cff132e1b141edf1b08df43e73965ec4fc0c"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "42744d09080cdf4cf6e35cffbb47638d840f9b6b922351b8dfc22508f2f5c146"
+hash = "3e0f57361ec3f7b1b37307ac75506ae1432376405d67e0339399c8b2b3ddf16f"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
