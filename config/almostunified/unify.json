@@ -31,7 +31,6 @@
     "forge:wires/{material}",
     "forge:storage_blocks/{material}",
     "forge:storage_blocks/raw_{material}",
-    "forge:double_ingots/{material}",
     "forge:sheet/{material}",
     "forge:heavy_sheets/{material}",
     "forge:foils/{material}",
@@ -42,6 +41,7 @@
     "forge:rings/{material}",
     "forge:nails/{material}",
     "forge:double_sheets/{material}",
+    "forge:double_ingots/{material}"
   ],
   "materials": [
     "aeternium",
