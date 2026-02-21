@@ -2504,283 +2504,283 @@ hash = "8d3cd7d4b76fc783f16a95a62ee677981280c4146e3bc8ae385c716281488f9d"
 metafile = true
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/charger/meteorite_compass"
+file = "thingpacks/compat/data/ae2/recipe/charger/meteorite_compass.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/materials/advancedcard"
+file = "thingpacks/compat/data/ae2/recipe/materials/advancedcard.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/materials/basiccard"
+file = "thingpacks/compat/data/ae2/recipe/materials/basiccard.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/materials/cardspeed"
+file = "thingpacks/compat/data/ae2/recipe/materials/cardspeed.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/misc/chests_sky_stone"
+file = "thingpacks/compat/data/ae2/recipe/misc/chests_sky_stone.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/misc/chests_smooth_sky_stone"
+file = "thingpacks/compat/data/ae2/recipe/misc/chests_smooth_sky_stone.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/cell_workbench"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/cell_workbench.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/controller"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/controller.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/crank"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/crank.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/crystal_processing_charger"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/crystal_processing_charger.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/crystal_processing_growth_accelerator"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/crystal_processing_growth_accelerator.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/energy_energy_acceptor"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/energy_energy_acceptor.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/energy_vibration_chamber"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/energy_vibration_chamber.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/inscribers"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/inscribers.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/interfaces_interface"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/interfaces_interface.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/io_condenser"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/io_condenser.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/io_port"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/io_port.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/pattern_providers_interface"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/pattern_providers_interface.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/quantum_ring"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/quantum_ring.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/spatial_anchor"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/spatial_anchor.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/spatial_io_port"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/spatial_io_port.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/storage_chest"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/storage_chest.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/blocks/storage_drive"
+file = "thingpacks/compat/data/ae2/recipe/network/blocks/storage_drive.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/cells/item_cell_housing"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/item_cell_housing.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_16k"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_16k.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_1k"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_1k.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_256k"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_256k.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_4k"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_4k.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_64k"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_cell_64k.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_components_cell_1k_part"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/item_storage_components_cell_1k_part.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/cells/spatial_storage_cell_128_cubed"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/spatial_storage_cell_128_cubed.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/cells/spatial_storage_cell_16_cubed"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/spatial_storage_cell_16_cubed.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/cells/spatial_storage_cell_2_cubed"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/spatial_storage_cell_2_cubed.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/cells/view_cell"
+file = "thingpacks/compat/data/ae2/recipe/network/cells/view_cell.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/crafting/cpu_crafting_unit"
+file = "thingpacks/compat/data/ae2/recipe/network/crafting/cpu_crafting_unit.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/crafting/molecular_assembler"
+file = "thingpacks/compat/data/ae2/recipe/network/crafting/molecular_assembler.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/crafting/patterns_blank"
+file = "thingpacks/compat/data/ae2/recipe/network/crafting/patterns_blank.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/crystal_resonance_generator"
+file = "thingpacks/compat/data/ae2/recipe/network/crystal_resonance_generator.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/parts/annihilation_plane_alt"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/annihilation_plane_alt.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/parts/annihilation_plane_alt2"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/annihilation_plane_alt2.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/parts/export_bus"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/export_bus.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/parts/formation_plane"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/formation_plane.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/parts/formation_plane_alt"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/formation_plane_alt.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/parts/import_bus"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/import_bus.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/parts/panels_semi_dark_monitor"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/panels_semi_dark_monitor.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/parts/tunnels_me"
+file = "thingpacks/compat/data/ae2/recipe/network/parts/tunnels_me.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/wireless_booster"
+file = "thingpacks/compat/data/ae2/recipe/network/wireless_booster.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/network/wireless_part"
+file = "thingpacks/compat/data/ae2/recipe/network/wireless_part.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_axe"
+file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_axe.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_cutting_knife"
+file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_cutting_knife.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_hoe"
+file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_hoe.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_pickaxe"
+file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_pickaxe.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_spade"
+file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_spade.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_sword"
+file = "thingpacks/compat/data/ae2/recipe/tools/certus_quartz_sword.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/fluix_axe"
+file = "thingpacks/compat/data/ae2/recipe/tools/fluix_axe.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/fluix_hoe"
+file = "thingpacks/compat/data/ae2/recipe/tools/fluix_hoe.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/fluix_pickaxe"
+file = "thingpacks/compat/data/ae2/recipe/tools/fluix_pickaxe.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/fluix_shovel"
+file = "thingpacks/compat/data/ae2/recipe/tools/fluix_shovel.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/fluix_sword"
+file = "thingpacks/compat/data/ae2/recipe/tools/fluix_sword.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/matter_cannon"
+file = "thingpacks/compat/data/ae2/recipe/tools/matter_cannon.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/misctools_charged_staff"
+file = "thingpacks/compat/data/ae2/recipe/tools/misctools_charged_staff.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/misctools_entropy_manipulator"
+file = "thingpacks/compat/data/ae2/recipe/tools/misctools_entropy_manipulator.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_axe"
+file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_axe.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_cutting_knife"
+file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_cutting_knife.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_hoe"
+file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_hoe.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_pickaxe"
+file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_pickaxe.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_spade"
+file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_spade.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_sword"
+file = "thingpacks/compat/data/ae2/recipe/tools/nether_quartz_sword.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/network_color_applicator"
+file = "thingpacks/compat/data/ae2/recipe/tools/network_color_applicator.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
-file = "thingpacks/compat/data/ae2/recipe/tools/network_memory_card"
+file = "thingpacks/compat/data/ae2/recipe/tools/network_memory_card.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
