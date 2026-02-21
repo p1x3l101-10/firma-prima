@@ -2504,6 +2504,278 @@ hash = "8d3cd7d4b76fc783f16a95a62ee677981280c4146e3bc8ae385c716281488f9d"
 metafile = true
 
 [[files]]
+file = "thingpacks/compat/data/ae2/recipe/certus_quartz_axe.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/certus_quartz_cutting_knife.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/certus_quartz_hoe.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/certus_quartz_pickaxe.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/certus_quartz_spade.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/certus_quartz_sword.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/certus_quartz_wrench.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/fluix_axe.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/fluix_hoe.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/fluix_pickaxe.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/fluix_shovel.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/fluix_sword.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/fluix_upgrade_smithing_template.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/matter_cannon.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/misctools_charged_staff.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/misctools_entropy_manipulator.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/nether_quartz_axe.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/nether_quartz_cutting_knife.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/nether_quartz_hoe.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/nether_quartz_pickaxe.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/nether_quartz_spade.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/nether_quartz_sword.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/nether_quartz_wrench.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/network_color_applicator.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/network_memory_card.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/network_tool.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_black.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_blue.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_brown.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_cyan.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_gray.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_green.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_light_blue.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_light_gray.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lime.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_black.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_blue.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_brown.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_cyan.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_gray.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_green.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_light_blue.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_light_gray.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_lime.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_magenta.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_orange.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_pink.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_purple.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_red.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_white.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_lumen_yellow.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_magenta.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_orange.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_pink.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_purple.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_red.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_white.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/paintballs_yellow.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/portable_fluid_cell_16k.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/portable_fluid_cell_1k.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/portable_fluid_cell_256k.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/portable_fluid_cell_4k.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/portable_fluid_cell_64k.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/portable_item_cell_16k.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/portable_item_cell_1k.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/portable_item_cell_256k.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/portable_item_cell_4k.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipe/portable_item_cell_64k.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "thingpacks/compat/data/map_atlases/recipes/craft_atlas.json"
 hash = "98778df2f13571685389aa9905b84cc2f327f5a17243ff273908d3de578c784c"
 
