@@ -2641,6 +2641,26 @@ file = "thingpacks/compat/data/ae2/recipes/network/blocks/storage_drive.json"
 hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
 
 [[files]]
+file = "thingpacks/compat/data/ae2/recipes/network/cells/fluid_storage_cell_16k.json"
+hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipes/network/cells/fluid_storage_cell_1k.json"
+hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipes/network/cells/fluid_storage_cell_256k.json"
+hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipes/network/cells/fluid_storage_cell_4k.json"
+hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipes/network/cells/fluid_storage_cell_64k.json"
+hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
+
+[[files]]
 file = "thingpacks/compat/data/ae2/recipes/network/cells/item_cell_housing.json"
 hash = "21659a2c458822d8eba3e378d6c15a33a65dc3be12e48719f5b8e8f856c361d2"
 
@@ -2683,6 +2703,10 @@ hash = "6f63cdd42d6eafb12d0db161c55f4fc1ccca3339372463fa988fc90fe0770187"
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/network/cells/item_storage_components_cell_64k_part.json"
 hash = "cdbb9851cdc3d7188d23da72ec6377e7b11c990080aa458763759e53e59a63c5"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipes/network/cells/spatial_components.json"
+hash = "1bd5cad9395fcc6aaa5fb480ccf8c77809d92fdc4074f03ff9cf91ea256be0c9"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/network/cells/spatial_storage_cell_128_cubed.json"
