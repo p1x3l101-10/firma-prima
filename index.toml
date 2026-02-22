@@ -2882,7 +2882,7 @@ file = "thingpacks/compat/data/ae2/recipes/tools/network_memory_card.json"
 hash = "9cc1f4cda9fbc303aac12b23dbfef1eaabf8f7b3d991a0dd4cde49dcf0da4e58"
 
 [[files]]
-file = "thingpacks/compat/data/ars_nouveau/recipes/imbuement_amethyst_shard.json"
+file = "thingpacks/compat/data/ars_nouveau/recipes/imbuement_amethyst.json"
 hash = "2abc5d426be32b741915954c7ba8206f01ff589174c46ba7219f448ccdaf7d51"
 
 [[files]]
