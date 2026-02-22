@@ -1789,6 +1789,11 @@ hash = "5b7671266fefd0d7918b679316a8d6939da939771f0a8985da351aebf2a6df68"
 metafile = true
 
 [[files]]
+file = "mods/feature-recycler.pw.toml"
+hash = "2e7cd0c0fbb163ed61ecf169b59808cbd320971148b7cc9e03c3fa6291527fe3"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "a07f46c103706a6358ab3b611e984c7b7caa4f1028d60154aa3b051797aba764"
 metafile = true
@@ -2891,6 +2896,10 @@ hash = "c7e4c909e83d8987f45243123735f5a42e08cbdf7ba83e72323f48f809b97efb"
 [[files]]
 file = "thingpacks/compat/data/map_atlases/recipes/craft_atlas.json"
 hash = "98778df2f13571685389aa9905b84cc2f327f5a17243ff273908d3de578c784c"
+
+[[files]]
+file = "thingpacks/compat/data/tfc_ars_compat/tags/worldgen/biome/archwood_condidates.json"
+hash = "9b8a97a0aa6cfcf19e8269c7f84420031116733db57bed14933ec2096a340649"
 
 [[files]]
 file = "thingpacks/compat/pack.mcmeta"

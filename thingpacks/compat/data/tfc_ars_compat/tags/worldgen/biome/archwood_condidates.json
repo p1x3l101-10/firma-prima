@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:woodland",
+    "tfc:old_growth_woodland",
+    "tfc:rolling_hills"
+  ]
+}
