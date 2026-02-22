@@ -2706,7 +2706,15 @@ hash = "cdbb9851cdc3d7188d23da72ec6377e7b11c990080aa458763759e53e59a63c5"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/network/cells/spatial_components.json"
-hash = "1bd5cad9395fcc6aaa5fb480ccf8c77809d92fdc4074f03ff9cf91ea256be0c9"
+hash = "656609764081c3e14351db52ac376d85d4f37f2b05c39ed545f213e61f24770f"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipes/network/cells/spatial_components_0.json"
+hash = "8e036d5b2a9ae1b5734d3d7c36de8d183a37d7057f3bfd60ba86636f31df34c2"
+
+[[files]]
+file = "thingpacks/compat/data/ae2/recipes/network/cells/spatial_components_1.json"
+hash = "b399ed53a661139caf722f2116c67f1dc0e79c7c7c91df369d268790af653c5d"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/network/cells/spatial_storage_cell_128_cubed.json"
@@ -2738,7 +2746,7 @@ hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/network/crystal_resonance_generator.json"
-hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
+hash = "7747bb3caeb1de9c37f0fc0904596447e4acbbce5f95ee596db7e23af373be6a"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/network/parts/annihilation_plane_alt.json"
