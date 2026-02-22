@@ -6,7 +6,7 @@
       "tag": "forge:dusts/glowstone"
     },
     "b": {
-      "item": "firmaprima:circuit/t2"
+      "tag": "firmaprima:circuits/t2"
     },
     "c": {
       "item": "ae2:cell_component_16k"

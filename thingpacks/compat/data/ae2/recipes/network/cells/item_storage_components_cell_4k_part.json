@@ -16,9 +16,9 @@
     }
   },
   "pattern": [
-    "dad",
-    "aca",
-    "bbb"
+    "aba",
+    "cdc",
+    "aca"
   ],
   "result": {
     "item": "ae2:cell_component_4k"

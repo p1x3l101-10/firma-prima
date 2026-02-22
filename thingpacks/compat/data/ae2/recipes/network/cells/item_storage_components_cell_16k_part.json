@@ -3,13 +3,13 @@
   "category": "misc",
   "key": {
     "a": {
-      "tag": "forge:ingots/aluminum"
+      "tag": "forge:dusts/glowstone"
     },
     "b": {
       "tag": "firmaprima:circuits/t2"
     },
     "c": {
-      "item": "ae2:cell_component_64k"
+      "item": "ae2:cell_component_4k"
     },
     "d": {
       "item": "ae2:quartz_glass"
@@ -21,7 +21,7 @@
     "aca"
   ],
   "result": {
-    "item": "ae2:cell_component_256k"
+    "item": "ae2:cell_component_16k"
   },
   "show_notification": true
 }
