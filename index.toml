@@ -1210,7 +1210,7 @@ hash = "3cdc027d1dea8836d10f6ee8fd0706b82a87c0f4f53fb34fbe979574af63da81"
 
 [[files]]
 file = "config/tfc_ars_compat/sourceberry.toml"
-hash = "64013a483e97f528d41eb8439b1bdbee15b4320589575a0748ed7164e57c1d79"
+hash = "62852cf4ed3cab633acee7cf73d9eef3b380ea12524a29cac9db0b91c0853ec4"
 
 [[files]]
 file = "config/tfc_cuisine-common.toml"
