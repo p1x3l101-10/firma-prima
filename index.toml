@@ -2899,7 +2899,7 @@ hash = "98778df2f13571685389aa9905b84cc2f327f5a17243ff273908d3de578c784c"
 
 [[files]]
 file = "thingpacks/compat/data/tfc_ars_compat/tags/worldgen/biome/archwood_condidates.json"
-hash = "9b8a97a0aa6cfcf19e8269c7f84420031116733db57bed14933ec2096a340649"
+hash = "3fedfb466110913a330d6084feb2d41fd60bce1d2a77abb2e9c613e7451dd6ae"
 
 [[files]]
 file = "thingpacks/compat/pack.mcmeta"
