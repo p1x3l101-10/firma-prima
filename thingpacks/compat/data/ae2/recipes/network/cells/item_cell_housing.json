@@ -10,18 +10,14 @@
     },
     "c": {
       "item": "dfc:metal/ingot/platinum"
-    },
-    "d": {
-      "tag": "forge:ingots/copper"
     }
   },
   "pattern": [
     "aba",
     "b b",
-    "cdc"
+    "ccc"
   ],
   "result": {
-    "count": 1,
-    "id": "ae2:item_cell_housing"
+    "item": "ae2:item_cell_housing"
   }
 }

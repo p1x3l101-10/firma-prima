@@ -6,7 +6,7 @@
       "tag": "forge:rods/wooden"
     },
     "b": {
-      "item": "firmalife:metal/ingot/stainless_stee"
+      "item": "firmalife:metal/ingot/stainless_steel"
     },
     "c": {
       "tag": "forge:gems/quartz"
@@ -19,6 +19,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "ae2:nether_quartz_cutting_knife"
+    "item": "ae2:nether_quartz_cutting_knife"
   }
 }

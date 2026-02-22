@@ -2554,11 +2554,11 @@ hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/materials/advancedcard.json"
-hash = "3fc24a2f7de1f65a8632d6a225ad3204c28a3460527d5e49b810b7edc0989742"
+hash = "5b71cd671271ee427a9b494904d384ea1f9c82de988c20e95f73cf618fb92c75"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/materials/basiccard.json"
-hash = "ec8134f2793eab815159ae9dfe976aa0aefc0ed2f56205b2abd6aecf99c971ce"
+hash = "9c2ef9538c3e0170125d3de5ea7619da22ef7dcac43419cf2a8099de744d3f17"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/materials/cardspeed.json"
@@ -2642,7 +2642,7 @@ hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/network/cells/item_cell_housing.json"
-hash = "dfc0dc21ec95e3e705b4260f45fb0ae54f4eda7bfa8b620d1c97333743045152"
+hash = "21659a2c458822d8eba3e378d6c15a33a65dc3be12e48719f5b8e8f856c361d2"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/network/cells/item_storage_cell_16k.json"
@@ -2750,11 +2750,11 @@ hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/network/wireless_booster.json"
-hash = "025131a9bfc99392ddacb3250ba4a95f5a17524c4508628bcc657a2f7f2b4df4"
+hash = "b9c9df18ab5c3b5b26b84ae04d3484ce4b640c89391f39a2c0e94c6ad967082a"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/network/wireless_part.json"
-hash = "b73f8d3552fc9f1965dafc18e1b5590d17458d154b95d9a3fd5f6b0085eab253"
+hash = "056c31281449efc15c90ecbce93bf35798f0df85b59f2c2798a2c220d970fb1a"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/tools/certus_quartz_axe.json"
@@ -2762,7 +2762,7 @@ hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/tools/certus_quartz_cutting_knife.json"
-hash = "71d3bb9769b7805d3bb72063ba4e1559273ae2a6b502e85e41ebf561214c027a"
+hash = "6f4677bae8a9deb000b36f6d6c7b10820005974d703dc4746834f33a386588ae"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/tools/certus_quartz_hoe.json"
@@ -2806,11 +2806,11 @@ hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/tools/misctools_charged_staff.json"
-hash = "321c28578b1d0cd8d692b1c3675f442a577994eca66875a2cc9722ac6cb0488c"
+hash = "6e94697e619ffb90e9a26fcccffcdaef03b2b39d7cab960206aae847cdfc2fae"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/tools/misctools_entropy_manipulator.json"
-hash = "64ba8d2d3af5544b67f8ad89171050cdd3fd669834bbdb0fd13e06b3e9f49ce7"
+hash = "c701decfe181ca9489229ca1572622add2dd97a08dd13c5d46ce2020dfc2950b"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/tools/nether_quartz_axe.json"
@@ -2818,7 +2818,7 @@ hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/tools/nether_quartz_cutting_knife.json"
-hash = "95c2fcd1c8ca283d273792d78f59d1ee2d66b7e3efe07e153a6354a8b2afa332"
+hash = "2b811349591dd1e669b4048d0af0f500a5ae339b58372e5b7b69ad755d586614"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/tools/nether_quartz_hoe.json"
@@ -2838,11 +2838,11 @@ hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/tools/network_color_applicator.json"
-hash = "d32ca70779c07a6219f04e59b76e6a74bc5d05971d390adf2d872f4ca42b1fa4"
+hash = "6a801bc3f5d322adb141c7e3bd43f50eee6b62a1e7c8d98b594ddd0bdaa930b4"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/tools/network_memory_card.json"
-hash = "89c206a7b5a10164096726420e8a3837b3bbb31b8f78ac9e93f4e601d150c1f9"
+hash = "9cc1f4cda9fbc303aac12b23dbfef1eaabf8f7b3d991a0dd4cde49dcf0da4e58"
 
 [[files]]
 file = "thingpacks/compat/data/firmaprima/tags/items/circuits/t1.json"
