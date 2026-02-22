@@ -2554,11 +2554,11 @@ hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/materials/advancedcard.json"
-hash = "ed0633bbcb1f8e423b05b4bfb2376a7edf06eb652b3c37c268e068c8f4980ad5"
+hash = "3fc24a2f7de1f65a8632d6a225ad3204c28a3460527d5e49b810b7edc0989742"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/materials/basiccard.json"
-hash = "135970ec52ba3ef5867fd45d6d9768693bed796a8bd3b6993cf10929a7c84b6f"
+hash = "ec8134f2793eab815159ae9dfe976aa0aefc0ed2f56205b2abd6aecf99c971ce"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/materials/cardspeed.json"
@@ -2758,7 +2758,7 @@ hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/tools/certus_quartz_cutting_knife.json"
-hash = "2815332f80ddbe8f5123f75a6b660757179e8f5d4cc9a20d14eecb625162fd0c"
+hash = "71d3bb9769b7805d3bb72063ba4e1559273ae2a6b502e85e41ebf561214c027a"
 
 [[files]]
 file = "thingpacks/compat/data/ae2/recipes/tools/certus_quartz_hoe.json"
@@ -2841,16 +2841,16 @@ file = "thingpacks/compat/data/ae2/recipes/tools/network_memory_card.json"
 hash = "89c206a7b5a10164096726420e8a3837b3bbb31b8f78ac9e93f4e601d150c1f9"
 
 [[files]]
-file = "thingpacks/compat/data/firmaprima/tags/circuits/t1.json"
-hash = "f1ade6f292adb1dc8717f95eead37c71cfdf59d0aacacdff565620336fff6f0a"
+file = "thingpacks/compat/data/firmaprima/tags/items/circuits/t1.json"
+hash = "12b014e3e863feccd12685881d80dcbf7a5909d4b8ad437c3e5769d8fee00639"
 
 [[files]]
-file = "thingpacks/compat/data/firmaprima/tags/circuits/t2.json"
-hash = "d3d8f626be5231239ab3bebf120acbba8733df1f866494230a72f2e14b23b079"
+file = "thingpacks/compat/data/firmaprima/tags/items/circuits/t2.json"
+hash = "9d3b83d67c2f270cd72e26189d2cd7212ff2d6e23d3c7ba8be19b149f4bc6f2c"
 
 [[files]]
-file = "thingpacks/compat/data/firmaprima/tags/circuits/t3.json"
-hash = "e1fef86aa955e4d1c17aa3e22865be7b4bf1401f1a4e6835573b42cb168659b7"
+file = "thingpacks/compat/data/firmaprima/tags/items/circuits/t3.json"
+hash = "c7e4c909e83d8987f45243123735f5a42e08cbdf7ba83e72323f48f809b97efb"
 
 [[files]]
 file = "thingpacks/compat/data/map_atlases/recipes/craft_atlas.json"
