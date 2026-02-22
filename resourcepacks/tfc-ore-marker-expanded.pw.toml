@@ -1,0 +1,13 @@
+name = "TFC Ore Marker: Expanded"
+filename = "TFC Ore Marker Expanded v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/q0xdENJb/versions/foqYP0va/TFC%20Ore%20Marker%20Expanded%20v1.1.zip"
+hash-format = "sha512"
+hash = "d0630ce22e5423becffdf6f5d819274ca8d5b68e95bd93e6022747b30b1da1c54ed909de3d3b3d42354015e0db4d5cccc02119208546e178f2edabf1f15bec3b"
+
+[update]
+[update.modrinth]
+mod-id = "q0xdENJb"
+version = "foqYP0va"
