@@ -2861,6 +2861,22 @@ file = "thingpacks/compat/pack.mcmeta"
 hash = "055d8da72584de0c63676aa8b60b91f71f5631e1d08c87441d690e0d65077bc6"
 
 [[files]]
+file = "thingpacks/deletions/data/tfc_ie_addon/tfc/item_heats/metal/aluminum_double_ingot.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/deletions/data/tfc_ie_addon/tfc/item_heats/metal/aluminum_ingot.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/deletions/data/tfc_ie_addon/tfc/item_heats/metal/aluminum_sheet.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "thingpacks/deletions/pack.mcmeta"
+hash = "6e9b36e7b4c7bc7f7624acd6fbee9f24325591099279a11f973977a2c474e818"
+
+[[files]]
 file = "thingpacks/worldgen-changes/data/ae2/loot_tables/blocks/mysterious_cube.json"
 hash = "df45cc623be95a81a58e78d08f168cd64a5d894627c1177dde972ad6f7b46955"
 
