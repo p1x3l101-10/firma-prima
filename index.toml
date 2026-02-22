@@ -2906,6 +2906,10 @@ file = "thingpacks/compat/pack.mcmeta"
 hash = "055d8da72584de0c63676aa8b60b91f71f5631e1d08c87441d690e0d65077bc6"
 
 [[files]]
+file = "thingpacks/deletions/data/hexcasting/loot_tables/grant_patchi_book.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "thingpacks/deletions/data/tfc_ie_addon/tfc/item_heats/metal/aluminum_double_ingot.json"
 hash = "02a3023a944070ee5d209552f1b8bd64f73c206d5d5575f949fd713dd8c9635c"
 
