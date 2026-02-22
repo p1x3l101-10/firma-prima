@@ -1,0 +1,13 @@
+name = "Oculus For Simple Clouds"
+filename = "oculus_for_simpleclouds-0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8WzyyTkv/versions/Z9HZ0CRu/oculus_for_simpleclouds-0.2.jar"
+hash-format = "sha512"
+hash = "7fca022b88809ccc57812ca8df639e95602a92751a4262434cbe528546591c006d044ea59d05a48cec577814bdda351b7dcf1c8939b482f662d616f4390fdfe7"
+
+[update]
+[update.modrinth]
+mod-id = "8WzyyTkv"
+version = "Z9HZ0CRu"

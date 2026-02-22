@@ -2099,6 +2099,16 @@ hash = "5fe4a1196c8d0e71ff798c56815d1df466c18f02409d88b17d38abff093fb6e0"
 metafile = true
 
 [[files]]
+file = "mods/oculus-for-simple-clouds.pw.toml"
+hash = "ac7d142fc561f64e1642a27c4d383042473aecf4d6efb6bc9a121243c7fc8922"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
 file = "mods/ore-processing-for-tfc.pw.toml"
 hash = "168fe28b8333d80aa3e7c9521f0fe29d16bff795cd6029358ca444e043e3883a"
 metafile = true
@@ -2551,6 +2561,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/tfc-improved-stone-tools.pw.toml"
 hash = "8d3cd7d4b76fc783f16a95a62ee677981280c4146e3bc8ae385c716281488f9d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/atmospheric-shaders.pw.toml"
+hash = "714c544f2bca4d2a178af0c2f7d5d2bf7e4c3b8a05bfd4d1d40e60eeb7f3aa25"
 metafile = true
 
 [[files]]

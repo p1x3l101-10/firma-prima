@@ -1,0 +1,13 @@
+name = "Atmospheric Shaders"
+filename = "AtmosphericShaders_0.0.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JJENX1BH/versions/rzA19f3C/AtmosphericShaders_0.0.4.zip"
+hash-format = "sha512"
+hash = "861d4d096e8a32fbaf93f839c288bdadb2645476dd5962e15177412b42087ad5685ebc44c94f7c700ee38ad846e33a512dae17ead034a82b9c07cb24eacdc349"
+
+[update]
+[update.modrinth]
+mod-id = "JJENX1BH"
+version = "rzA19f3C"
