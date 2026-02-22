@@ -2898,7 +2898,11 @@ file = "thingpacks/compat/data/map_atlases/recipes/craft_atlas.json"
 hash = "98778df2f13571685389aa9905b84cc2f327f5a17243ff273908d3de578c784c"
 
 [[files]]
-file = "thingpacks/compat/data/tfc_ars_compat/tags/worldgen/biome/archwood_condidates.json"
+file = "thingpacks/compat/data/tfc_ars_compat/tags/items/archwood_logs.json"
+hash = "fb5ce5495411c9e0a738091fbc20cf3f0ca3c81a4892c48725055baaaf2bad48"
+
+[[files]]
+file = "thingpacks/compat/data/tfc_ars_compat/tags/worldgen/biome/archwood_candidates.json"
 hash = "3fedfb466110913a330d6084feb2d41fd60bce1d2a77abb2e9c613e7451dd6ae"
 
 [[files]]
