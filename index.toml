@@ -1790,7 +1790,7 @@ metafile = true
 
 [[files]]
 file = "mods/feature-recycler.pw.toml"
-hash = "2e7cd0c0fbb163ed61ecf169b59808cbd320971148b7cc9e03c3fa6291527fe3"
+hash = "ebe45fc650931b32c8d70e85942a530f20f7e013e584af29cb46756c3d970246"
 metafile = true
 
 [[files]]
