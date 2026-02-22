@@ -1,0 +1,9 @@
+{
+  "ingredient": {
+    "item": "ars_nouveau:sourceberry_sack"
+  },
+  "hunger": 4,
+  "saturation": 0.2,
+  "decay_modifier": 2,
+  "fruit": 1
+}

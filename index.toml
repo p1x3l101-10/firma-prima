@@ -2882,6 +2882,10 @@ file = "thingpacks/compat/data/ae2/recipes/tools/network_memory_card.json"
 hash = "9cc1f4cda9fbc303aac12b23dbfef1eaabf8f7b3d991a0dd4cde49dcf0da4e58"
 
 [[files]]
+file = "thingpacks/compat/data/ars_nouveau/recipes/imbuement_amethyst_shard.json"
+hash = "2abc5d426be32b741915954c7ba8206f01ff589174c46ba7219f448ccdaf7d51"
+
+[[files]]
 file = "thingpacks/compat/data/firmaprima/tags/items/circuits/t1.json"
 hash = "12b014e3e863feccd12685881d80dcbf7a5909d4b8ad437c3e5769d8fee00639"
 
@@ -2892,6 +2896,18 @@ hash = "9d3b83d67c2f270cd72e26189d2cd7212ff2d6e23d3c7ba8be19b149f4bc6f2c"
 [[files]]
 file = "thingpacks/compat/data/firmaprima/tags/items/circuits/t3.json"
 hash = "c7e4c909e83d8987f45243123735f5a42e08cbdf7ba83e72323f48f809b97efb"
+
+[[files]]
+file = "thingpacks/compat/data/firmaprima/tfc/food_items/sourceberry.json"
+hash = "79c06ed69f1d5a4313fd9bacf046f1e64718e9173cb5858305bee5580ecd0428"
+
+[[files]]
+file = "thingpacks/compat/data/firmaprima/tfc/food_items/sourceberry_sack.json"
+hash = "0be22d9b0aaa949826419757f8ed0742f4aedb79c6a546f34793ea1fe46bf28d"
+
+[[files]]
+file = "thingpacks/compat/data/forge/tags/items/gems/amethyst.json"
+hash = "2c916dffd2f4cd846046b3f2a892f182f4cb0050aaef59656d08d493b4183959"
 
 [[files]]
 file = "thingpacks/compat/data/map_atlases/recipes/craft_atlas.json"
